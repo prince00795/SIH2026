@@ -1,0 +1,6584 @@
+{
+  "metadata": {
+    "source_document": "CITY PAIR WISE SCHEDULED DOMESTIC PASSENGER TRAFFIC STATISTICS FOR THE YEAR 2022-23",
+    "reporting_agency": "Directorate General of Civil Aviation (DGCA), Government of India",
+    "total_city_pairs_reported": 786,
+    "total_domestic_passengers_2022_23": 136028655,
+    "top20_total_passengers": 48028326,
+    "top20_network_coverage_pct": 35.31,
+    "methodology": "Ranked by total two-way scheduled domestic passenger volume (PASSENGERS TO CITY 2 + PASSENGERS FROM CITY 2)",
+    "weight_label": "DGCA TRAFFIC-DERIVED WEIGHT"
+  },
+  "top_20_basket": [
+    {
+      "sno": 251,
+      "city1": "MUMBAI",
+      "city2": "DELHI",
+      "passengers_to_city2": 2784752,
+      "passengers_from_city2": 2831167,
+      "total_two_way_passengers": 5615919,
+      "rank": 1,
+      "weight_in_top20": 0.116929,
+      "share_of_total_network": 0.041285
+    },
+    {
+      "sno": 151,
+      "city1": "BENGALURU",
+      "city2": "DELHI",
+      "passengers_to_city2": 2221129,
+      "passengers_from_city2": 2243352,
+      "total_two_way_passengers": 4464481,
+      "rank": 2,
+      "weight_in_top20": 0.092955,
+      "share_of_total_network": 0.03282
+    },
+    {
+      "sno": 143,
+      "city1": "BENGALURU",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 1820305,
+      "passengers_from_city2": 1841479,
+      "total_two_way_passengers": 3661784,
+      "rank": 3,
+      "weight_in_top20": 0.076242,
+      "share_of_total_network": 0.026919
+    },
+    {
+      "sno": 489,
+      "city1": "DELHI",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 1404653,
+      "passengers_from_city2": 1397251,
+      "total_two_way_passengers": 2801904,
+      "rank": 4,
+      "weight_in_top20": 0.058339,
+      "share_of_total_network": 0.020598
+    },
+    {
+      "sno": 465,
+      "city1": "DELHI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 1396825,
+      "passengers_from_city2": 1307098,
+      "total_two_way_passengers": 2703923,
+      "rank": 5,
+      "weight_in_top20": 0.056299,
+      "share_of_total_network": 0.019878
+    },
+    {
+      "sno": 450,
+      "city1": "DELHI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 1306104,
+      "passengers_from_city2": 1291720,
+      "total_two_way_passengers": 2597824,
+      "rank": 6,
+      "weight_in_top20": 0.054089,
+      "share_of_total_network": 0.019098
+    },
+    {
+      "sno": 481,
+      "city1": "DELHI",
+      "city2": "PUNE",
+      "passengers_to_city2": 1275732,
+      "passengers_from_city2": 1256205,
+      "total_two_way_passengers": 2531937,
+      "rank": 7,
+      "weight_in_top20": 0.052718,
+      "share_of_total_network": 0.018613
+    },
+    {
+      "sno": 248,
+      "city1": "MUMBAI",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 1120143,
+      "passengers_from_city2": 1144547,
+      "total_two_way_passengers": 2264690,
+      "rank": 8,
+      "weight_in_top20": 0.047153,
+      "share_of_total_network": 0.016649
+    },
+    {
+      "sno": 245,
+      "city1": "MUMBAI",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 1050077,
+      "passengers_from_city2": 1055365,
+      "total_two_way_passengers": 2105442,
+      "rank": 9,
+      "weight_in_top20": 0.043838,
+      "share_of_total_network": 0.015478
+    },
+    {
+      "sno": 36,
+      "city1": "AHMEDABAD",
+      "city2": "DELHI",
+      "passengers_to_city2": 1040187,
+      "passengers_from_city2": 1049451,
+      "total_two_way_passengers": 2089638,
+      "rank": 10,
+      "weight_in_top20": 0.043508,
+      "share_of_total_network": 0.015362
+    },
+    {
+      "sno": 328,
+      "city1": "CHENNAI",
+      "city2": "DELHI",
+      "passengers_to_city2": 1015722,
+      "passengers_from_city2": 1030650,
+      "total_two_way_passengers": 2046372,
+      "rank": 11,
+      "weight_in_top20": 0.042608,
+      "share_of_total_network": 0.015044
+    },
+    {
+      "sno": 409,
+      "city1": "DABOLIM",
+      "city2": "DELHI",
+      "passengers_to_city2": 984085,
+      "passengers_from_city2": 974779,
+      "total_two_way_passengers": 1958864,
+      "rank": 12,
+      "weight_in_top20": 0.040786,
+      "share_of_total_network": 0.0144
+    },
+    {
+      "sno": 29,
+      "city1": "AHMEDABAD",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 927558,
+      "passengers_from_city2": 906175,
+      "total_two_way_passengers": 1833733,
+      "rank": 13,
+      "weight_in_top20": 0.03818,
+      "share_of_total_network": 0.01348
+    },
+    {
+      "sno": 158,
+      "city1": "BENGALURU",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 890200,
+      "passengers_from_city2": 903306,
+      "total_two_way_passengers": 1793506,
+      "rank": 14,
+      "weight_in_top20": 0.037343,
+      "share_of_total_network": 0.013185
+    },
+    {
+      "sno": 173,
+      "city1": "BENGALURU",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 886589,
+      "passengers_from_city2": 856233,
+      "total_two_way_passengers": 1742822,
+      "rank": 15,
+      "weight_in_top20": 0.036287,
+      "share_of_total_network": 0.012812
+    },
+    {
+      "sno": 262,
+      "city1": "MUMBAI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 841906,
+      "passengers_from_city2": 843582,
+      "total_two_way_passengers": 1685488,
+      "rank": 16,
+      "weight_in_top20": 0.035094,
+      "share_of_total_network": 0.012391
+    },
+    {
+      "sno": 277,
+      "city1": "MUMBAI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 809522,
+      "passengers_from_city2": 787663,
+      "total_two_way_passengers": 1597185,
+      "rank": 17,
+      "weight_in_top20": 0.033255,
+      "share_of_total_network": 0.011742
+    },
+    {
+      "sno": 478,
+      "city1": "DELHI",
+      "city2": "PATNA",
+      "passengers_to_city2": 785658,
+      "passengers_from_city2": 744467,
+      "total_two_way_passengers": 1530125,
+      "rank": 18,
+      "weight_in_top20": 0.031859,
+      "share_of_total_network": 0.011249
+    },
+    {
+      "sno": 185,
+      "city1": "BENGALURU",
+      "city2": "PUNE",
+      "passengers_to_city2": 743512,
+      "passengers_from_city2": 769404,
+      "total_two_way_passengers": 1512916,
+      "rank": 19,
+      "weight_in_top20": 0.0315,
+      "share_of_total_network": 0.011122
+    },
+    {
+      "sno": 446,
+      "city1": "DELHI",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 732424,
+      "passengers_from_city2": 757349,
+      "total_two_way_passengers": 1489773,
+      "rank": 20,
+      "weight_in_top20": 0.031019,
+      "share_of_total_network": 0.010952
+    }
+  ],
+  "all_city_pairs": [
+    {
+      "sno": 251,
+      "city1": "MUMBAI",
+      "city2": "DELHI",
+      "passengers_to_city2": 2784752,
+      "passengers_from_city2": 2831167,
+      "total_two_way_passengers": 5615919,
+      "rank": 1,
+      "weight_in_top20": 0.116929,
+      "share_of_total_network": 0.041285
+    },
+    {
+      "sno": 151,
+      "city1": "BENGALURU",
+      "city2": "DELHI",
+      "passengers_to_city2": 2221129,
+      "passengers_from_city2": 2243352,
+      "total_two_way_passengers": 4464481,
+      "rank": 2,
+      "weight_in_top20": 0.092955,
+      "share_of_total_network": 0.03282
+    },
+    {
+      "sno": 143,
+      "city1": "BENGALURU",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 1820305,
+      "passengers_from_city2": 1841479,
+      "total_two_way_passengers": 3661784,
+      "rank": 3,
+      "weight_in_top20": 0.076242,
+      "share_of_total_network": 0.026919
+    },
+    {
+      "sno": 489,
+      "city1": "DELHI",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 1404653,
+      "passengers_from_city2": 1397251,
+      "total_two_way_passengers": 2801904,
+      "rank": 4,
+      "weight_in_top20": 0.058339,
+      "share_of_total_network": 0.020598
+    },
+    {
+      "sno": 465,
+      "city1": "DELHI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 1396825,
+      "passengers_from_city2": 1307098,
+      "total_two_way_passengers": 2703923,
+      "rank": 5,
+      "weight_in_top20": 0.056299,
+      "share_of_total_network": 0.019878
+    },
+    {
+      "sno": 450,
+      "city1": "DELHI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 1306104,
+      "passengers_from_city2": 1291720,
+      "total_two_way_passengers": 2597824,
+      "rank": 6,
+      "weight_in_top20": 0.054089,
+      "share_of_total_network": 0.019098
+    },
+    {
+      "sno": 481,
+      "city1": "DELHI",
+      "city2": "PUNE",
+      "passengers_to_city2": 1275732,
+      "passengers_from_city2": 1256205,
+      "total_two_way_passengers": 2531937,
+      "rank": 7,
+      "weight_in_top20": 0.052718,
+      "share_of_total_network": 0.018613
+    },
+    {
+      "sno": 248,
+      "city1": "MUMBAI",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 1120143,
+      "passengers_from_city2": 1144547,
+      "total_two_way_passengers": 2264690,
+      "rank": 8,
+      "weight_in_top20": 0.047153,
+      "share_of_total_network": 0.016649
+    },
+    {
+      "sno": 245,
+      "city1": "MUMBAI",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 1050077,
+      "passengers_from_city2": 1055365,
+      "total_two_way_passengers": 2105442,
+      "rank": 9,
+      "weight_in_top20": 0.043838,
+      "share_of_total_network": 0.015478
+    },
+    {
+      "sno": 36,
+      "city1": "AHMEDABAD",
+      "city2": "DELHI",
+      "passengers_to_city2": 1040187,
+      "passengers_from_city2": 1049451,
+      "total_two_way_passengers": 2089638,
+      "rank": 10,
+      "weight_in_top20": 0.043508,
+      "share_of_total_network": 0.015362
+    },
+    {
+      "sno": 328,
+      "city1": "CHENNAI",
+      "city2": "DELHI",
+      "passengers_to_city2": 1015722,
+      "passengers_from_city2": 1030650,
+      "total_two_way_passengers": 2046372,
+      "rank": 11,
+      "weight_in_top20": 0.042608,
+      "share_of_total_network": 0.015044
+    },
+    {
+      "sno": 409,
+      "city1": "DABOLIM",
+      "city2": "DELHI",
+      "passengers_to_city2": 984085,
+      "passengers_from_city2": 974779,
+      "total_two_way_passengers": 1958864,
+      "rank": 12,
+      "weight_in_top20": 0.040786,
+      "share_of_total_network": 0.0144
+    },
+    {
+      "sno": 29,
+      "city1": "AHMEDABAD",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 927558,
+      "passengers_from_city2": 906175,
+      "total_two_way_passengers": 1833733,
+      "rank": 13,
+      "weight_in_top20": 0.03818,
+      "share_of_total_network": 0.01348
+    },
+    {
+      "sno": 158,
+      "city1": "BENGALURU",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 890200,
+      "passengers_from_city2": 903306,
+      "total_two_way_passengers": 1793506,
+      "rank": 14,
+      "weight_in_top20": 0.037343,
+      "share_of_total_network": 0.013185
+    },
+    {
+      "sno": 173,
+      "city1": "BENGALURU",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 886589,
+      "passengers_from_city2": 856233,
+      "total_two_way_passengers": 1742822,
+      "rank": 15,
+      "weight_in_top20": 0.036287,
+      "share_of_total_network": 0.012812
+    },
+    {
+      "sno": 262,
+      "city1": "MUMBAI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 841906,
+      "passengers_from_city2": 843582,
+      "total_two_way_passengers": 1685488,
+      "rank": 16,
+      "weight_in_top20": 0.035094,
+      "share_of_total_network": 0.012391
+    },
+    {
+      "sno": 277,
+      "city1": "MUMBAI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 809522,
+      "passengers_from_city2": 787663,
+      "total_two_way_passengers": 1597185,
+      "rank": 17,
+      "weight_in_top20": 0.033255,
+      "share_of_total_network": 0.011742
+    },
+    {
+      "sno": 478,
+      "city1": "DELHI",
+      "city2": "PATNA",
+      "passengers_to_city2": 785658,
+      "passengers_from_city2": 744467,
+      "total_two_way_passengers": 1530125,
+      "rank": 18,
+      "weight_in_top20": 0.031859,
+      "share_of_total_network": 0.011249
+    },
+    {
+      "sno": 185,
+      "city1": "BENGALURU",
+      "city2": "PUNE",
+      "passengers_to_city2": 743512,
+      "passengers_from_city2": 769404,
+      "total_two_way_passengers": 1512916,
+      "rank": 19,
+      "weight_in_top20": 0.0315,
+      "share_of_total_network": 0.011122
+    },
+    {
+      "sno": 446,
+      "city1": "DELHI",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 732424,
+      "passengers_from_city2": 757349,
+      "total_two_way_passengers": 1489773,
+      "rank": 20,
+      "weight_in_top20": 0.031019,
+      "share_of_total_network": 0.010952
+    },
+    {
+      "sno": 146,
+      "city1": "BENGALURU",
+      "city2": "KOCHI",
+      "passengers_to_city2": 707509,
+      "passengers_from_city2": 713924,
+      "total_two_way_passengers": 1421433
+    },
+    {
+      "sno": 470,
+      "city1": "DELHI",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 669044,
+      "passengers_from_city2": 674098,
+      "total_two_way_passengers": 1343142
+    },
+    {
+      "sno": 145,
+      "city1": "BENGALURU",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 559293,
+      "passengers_from_city2": 582832,
+      "total_two_way_passengers": 1142125
+    },
+    {
+      "sno": 334,
+      "city1": "CHENNAI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 557779,
+      "passengers_from_city2": 554070,
+      "total_two_way_passengers": 1111849
+    },
+    {
+      "sno": 266,
+      "city1": "MUMBAI",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 547010,
+      "passengers_from_city2": 538515,
+      "total_two_way_passengers": 1085525
+    },
+    {
+      "sno": 224,
+      "city1": "BHUBANESWAR",
+      "city2": "DELHI",
+      "passengers_to_city2": 512850,
+      "passengers_from_city2": 527480,
+      "total_two_way_passengers": 1040330
+    },
+    {
+      "sno": 148,
+      "city1": "BENGALURU",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 499317,
+      "passengers_from_city2": 509844,
+      "total_two_way_passengers": 1009161
+    },
+    {
+      "sno": 117,
+      "city1": "BAGDOGRA",
+      "city2": "DELHI",
+      "passengers_to_city2": 483738,
+      "passengers_from_city2": 522324,
+      "total_two_way_passengers": 1006062
+    },
+    {
+      "sno": 548,
+      "city1": "GUWAHATI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 463031,
+      "passengers_from_city2": 489113,
+      "total_two_way_passengers": 952144
+    },
+    {
+      "sno": 25,
+      "city1": "AHMEDABAD",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 468268,
+      "passengers_from_city2": 463907,
+      "total_two_way_passengers": 932175
+    },
+    {
+      "sno": 373,
+      "city1": "KOCHI",
+      "city2": "DELHI",
+      "passengers_to_city2": 468361,
+      "passengers_from_city2": 462253,
+      "total_two_way_passengers": 930614
+    },
+    {
+      "sno": 590,
+      "city1": "HYDERABAD",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 471020,
+      "passengers_from_city2": 437479,
+      "total_two_way_passengers": 908499
+    },
+    {
+      "sno": 469,
+      "city1": "DELHI",
+      "city2": "LEH",
+      "passengers_to_city2": 466119,
+      "passengers_from_city2": 438974,
+      "total_two_way_passengers": 905093
+    },
+    {
+      "sno": 411,
+      "city1": "DABOLIM",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 455934,
+      "passengers_from_city2": 441634,
+      "total_two_way_passengers": 897568
+    },
+    {
+      "sno": 484,
+      "city1": "DELHI",
+      "city2": "RANCHI",
+      "passengers_to_city2": 452736,
+      "passengers_from_city2": 444696,
+      "total_two_way_passengers": 897432
+    },
+    {
+      "sno": 343,
+      "city1": "CHENNAI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 439802,
+      "passengers_from_city2": 427764,
+      "total_two_way_passengers": 867566
+    },
+    {
+      "sno": 11,
+      "city1": "AGARTALA",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 429146,
+      "passengers_from_city2": 413052,
+      "total_two_way_passengers": 842198
+    },
+    {
+      "sno": 244,
+      "city1": "MUMBAI",
+      "city2": "CHANDIGARH",
+      "passengers_to_city2": 421355,
+      "passengers_from_city2": 409329,
+      "total_two_way_passengers": 830684
+    },
+    {
+      "sno": 99,
+      "city1": "AMRITSAR",
+      "city2": "DELHI",
+      "passengers_to_city2": 407749,
+      "passengers_from_city2": 418884,
+      "total_two_way_passengers": 826633
+    },
+    {
+      "sno": 457,
+      "city1": "DELHI",
+      "city2": "JAMMU",
+      "passengers_to_city2": 395093,
+      "passengers_from_city2": 430245,
+      "total_two_way_passengers": 825338
+    },
+    {
+      "sno": 280,
+      "city1": "MUMBAI",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 422306,
+      "passengers_from_city2": 399200,
+      "total_two_way_passengers": 821506
+    },
+    {
+      "sno": 324,
+      "city1": "CHENNAI",
+      "city2": "COIMBATORE",
+      "passengers_to_city2": 401025,
+      "passengers_from_city2": 391409,
+      "total_two_way_passengers": 792434
+    },
+    {
+      "sno": 246,
+      "city1": "MUMBAI",
+      "city2": "KOCHI",
+      "passengers_to_city2": 391446,
+      "passengers_from_city2": 395623,
+      "total_two_way_passengers": 787069
+    },
+    {
+      "sno": 496,
+      "city1": "DELHI",
+      "city2": "VARANASI",
+      "passengers_to_city2": 389035,
+      "passengers_from_city2": 369874,
+      "total_two_way_passengers": 758909
+    },
+    {
+      "sno": 283,
+      "city1": "MUMBAI",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 368998,
+      "passengers_from_city2": 387947,
+      "total_two_way_passengers": 756945
+    },
+    {
+      "sno": 452,
+      "city1": "DELHI",
+      "city2": "INDORE",
+      "passengers_to_city2": 377512,
+      "passengers_from_city2": 375651,
+      "total_two_way_passengers": 753163
+    },
+    {
+      "sno": 306,
+      "city1": "CHANDIGARH",
+      "city2": "DELHI",
+      "passengers_to_city2": 371163,
+      "passengers_from_city2": 379909,
+      "total_two_way_passengers": 751072
+    },
+    {
+      "sno": 482,
+      "city1": "DELHI",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 360391,
+      "passengers_from_city2": 359970,
+      "total_two_way_passengers": 720361
+    },
+    {
+      "sno": 616,
+      "city1": "HYDERABAD",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 364171,
+      "passengers_from_city2": 352245,
+      "total_two_way_passengers": 716416
+    },
+    {
+      "sno": 176,
+      "city1": "BENGALURU",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 310595,
+      "passengers_from_city2": 325401,
+      "total_two_way_passengers": 635996
+    },
+    {
+      "sno": 455,
+      "city1": "DELHI",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 323658,
+      "passengers_from_city2": 301393,
+      "total_two_way_passengers": 625051
+    },
+    {
+      "sno": 122,
+      "city1": "BAGDOGRA",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 317861,
+      "passengers_from_city2": 298822,
+      "total_two_way_passengers": 616683
+    },
+    {
+      "sno": 299,
+      "city1": "MUMBAI",
+      "city2": "VARANASI",
+      "passengers_to_city2": 315207,
+      "passengers_from_city2": 297650,
+      "total_two_way_passengers": 612857
+    },
+    {
+      "sno": 428,
+      "city1": "DehraDun",
+      "city2": "DELHI",
+      "passengers_to_city2": 301756,
+      "passengers_from_city2": 305423,
+      "total_two_way_passengers": 607179
+    },
+    {
+      "sno": 141,
+      "city1": "BENGALURU",
+      "city2": "BHUBANESWAR",
+      "passengers_to_city2": 287080,
+      "passengers_from_city2": 304523,
+      "total_two_way_passengers": 591603
+    },
+    {
+      "sno": 264,
+      "city1": "MUMBAI",
+      "city2": "INDORE",
+      "passengers_to_city2": 291986,
+      "passengers_from_city2": 293316,
+      "total_two_way_passengers": 585302
+    },
+    {
+      "sno": 610,
+      "city1": "HYDERABAD",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 289671,
+      "passengers_from_city2": 291015,
+      "total_two_way_passengers": 580686
+    },
+    {
+      "sno": 155,
+      "city1": "BENGALURU",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 285452,
+      "passengers_from_city2": 287885,
+      "total_two_way_passengers": 573337
+    },
+    {
+      "sno": 494,
+      "city1": "DELHI",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 274763,
+      "passengers_from_city2": 280010,
+      "total_two_way_passengers": 554773
+    },
+    {
+      "sno": 218,
+      "city1": "BHUBANESWAR",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 273193,
+      "passengers_from_city2": 269853,
+      "total_two_way_passengers": 543046
+    },
+    {
+      "sno": 162,
+      "city1": "BENGALURU",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 268560,
+      "passengers_from_city2": 273314,
+      "total_two_way_passengers": 541874
+    },
+    {
+      "sno": 473,
+      "city1": "DELHI",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 264433,
+      "passengers_from_city2": 264748,
+      "total_two_way_passengers": 529181
+    },
+    {
+      "sno": 297,
+      "city1": "MUMBAI",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 262584,
+      "passengers_from_city2": 266458,
+      "total_two_way_passengers": 529042
+    },
+    {
+      "sno": 354,
+      "city1": "CHENNAI",
+      "city2": "PUNE",
+      "passengers_to_city2": 262485,
+      "passengers_from_city2": 265680,
+      "total_two_way_passengers": 528165
+    },
+    {
+      "sno": 323,
+      "city1": "CHENNAI",
+      "city2": "KOCHI",
+      "passengers_to_city2": 263685,
+      "passengers_from_city2": 260356,
+      "total_two_way_passengers": 524041
+    },
+    {
+      "sno": 203,
+      "city1": "BENGALURU",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 254444,
+      "passengers_from_city2": 269149,
+      "total_two_way_passengers": 523593
+    },
+    {
+      "sno": 182,
+      "city1": "BENGALURU",
+      "city2": "PATNA",
+      "passengers_to_city2": 251780,
+      "passengers_from_city2": 255111,
+      "total_two_way_passengers": 506891
+    },
+    {
+      "sno": 282,
+      "city1": "MUMBAI",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 249660,
+      "passengers_from_city2": 246533,
+      "total_two_way_passengers": 496193
+    },
+    {
+      "sno": 178,
+      "city1": "BENGALURU",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 245074,
+      "passengers_from_city2": 249222,
+      "total_two_way_passengers": 494296
+    },
+    {
+      "sno": 658,
+      "city1": "JAMMU",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 266207,
+      "passengers_from_city2": 227337,
+      "total_two_way_passengers": 493544
+    },
+    {
+      "sno": 231,
+      "city1": "BHUBANESWAR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 245533,
+      "passengers_from_city2": 246389,
+      "total_two_way_passengers": 491922
+    },
+    {
+      "sno": 210,
+      "city1": "BHOPAL",
+      "city2": "DELHI",
+      "passengers_to_city2": 248464,
+      "passengers_from_city2": 239160,
+      "total_two_way_passengers": 487624
+    },
+    {
+      "sno": 374,
+      "city1": "KOCHI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 239682,
+      "passengers_from_city2": 246709,
+      "total_two_way_passengers": 486391
+    },
+    {
+      "sno": 284,
+      "city1": "MUMBAI",
+      "city2": "PATNA",
+      "passengers_to_city2": 242579,
+      "passengers_from_city2": 242629,
+      "total_two_way_passengers": 485208
+    },
+    {
+      "sno": 498,
+      "city1": "DELHI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 241181,
+      "passengers_from_city2": 235569,
+      "total_two_way_passengers": 476750
+    },
+    {
+      "sno": 490,
+      "city1": "DELHI",
+      "city2": "SURAT",
+      "passengers_to_city2": 240682,
+      "passengers_from_city2": 234348,
+      "total_two_way_passengers": 475030
+    },
+    {
+      "sno": 495,
+      "city1": "DELHI",
+      "city2": "VADODARA",
+      "passengers_to_city2": 229423,
+      "passengers_from_city2": 235508,
+      "total_two_way_passengers": 464931
+    },
+    {
+      "sno": 683,
+      "city1": "KOLKATA",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 225519,
+      "passengers_from_city2": 235710,
+      "total_two_way_passengers": 461229
+    },
+    {
+      "sno": 194,
+      "city1": "BENGALURU",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 218107,
+      "passengers_from_city2": 236343,
+      "total_two_way_passengers": 454450
+    },
+    {
+      "sno": 189,
+      "city1": "BENGALURU",
+      "city2": "RANCHI",
+      "passengers_to_city2": 218180,
+      "passengers_from_city2": 223284,
+      "total_two_way_passengers": 441464
+    },
+    {
+      "sno": 47,
+      "city1": "AHMEDABAD",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 224318,
+      "passengers_from_city2": 216215,
+      "total_two_way_passengers": 440533
+    },
+    {
+      "sno": 353,
+      "city1": "CHENNAI",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 217764,
+      "passengers_from_city2": 221020,
+      "total_two_way_passengers": 438784
+    },
+    {
+      "sno": 54,
+      "city1": "AHMEDABAD",
+      "city2": "PUNE",
+      "passengers_to_city2": 222821,
+      "passengers_from_city2": 214984,
+      "total_two_way_passengers": 437805
+    },
+    {
+      "sno": 34,
+      "city1": "AHMEDABAD",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 207740,
+      "passengers_from_city2": 215186,
+      "total_two_way_passengers": 422926
+    },
+    {
+      "sno": 393,
+      "city1": "COIMBATORE",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 211107,
+      "passengers_from_city2": 209326,
+      "total_two_way_passengers": 420433
+    },
+    {
+      "sno": 40,
+      "city1": "AHMEDABAD",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 213114,
+      "passengers_from_city2": 205777,
+      "total_two_way_passengers": 418891
+    },
+    {
+      "sno": 544,
+      "city1": "GUWAHATI",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 199280,
+      "passengers_from_city2": 218405,
+      "total_two_way_passengers": 417685
+    },
+    {
+      "sno": 601,
+      "city1": "HYDERABAD",
+      "city2": "PUNE",
+      "passengers_to_city2": 207833,
+      "passengers_from_city2": 209325,
+      "total_two_way_passengers": 417158
+    },
+    {
+      "sno": 723,
+      "city1": "NAGPUR",
+      "city2": "PUNE",
+      "passengers_to_city2": 211998,
+      "passengers_from_city2": 200121,
+      "total_two_way_passengers": 412119
+    },
+    {
+      "sno": 580,
+      "city1": "HYDERABAD",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 210795,
+      "passengers_from_city2": 200363,
+      "total_two_way_passengers": 411158
+    },
+    {
+      "sno": 684,
+      "city1": "KOLKATA",
+      "city2": "PUNE",
+      "passengers_to_city2": 198410,
+      "passengers_from_city2": 205251,
+      "total_two_way_passengers": 403661
+    },
+    {
+      "sno": 288,
+      "city1": "MUMBAI",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 197510,
+      "passengers_from_city2": 197006,
+      "total_two_way_passengers": 394516
+    },
+    {
+      "sno": 144,
+      "city1": "BENGALURU",
+      "city2": "CHANDIGARH",
+      "passengers_to_city2": 200680,
+      "passengers_from_city2": 192702,
+      "total_two_way_passengers": 393382
+    },
+    {
+      "sno": 114,
+      "city1": "BAGDOGRA",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 198683,
+      "passengers_from_city2": 193142,
+      "total_two_way_passengers": 391825
+    },
+    {
+      "sno": 293,
+      "city1": "MUMBAI",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 149133,
+      "passengers_from_city2": 235130,
+      "total_two_way_passengers": 384263
+    },
+    {
+      "sno": 247,
+      "city1": "MUMBAI",
+      "city2": "COIMBATORE",
+      "passengers_to_city2": 188053,
+      "passengers_from_city2": 189242,
+      "total_two_way_passengers": 377295
+    },
+    {
+      "sno": 617,
+      "city1": "IMPHAL",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 188308,
+      "passengers_from_city2": 173909,
+      "total_two_way_passengers": 362217
+    },
+    {
+      "sno": 94,
+      "city1": "AMRITSAR",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 178826,
+      "passengers_from_city2": 179084,
+      "total_two_way_passengers": 357910
+    },
+    {
+      "sno": 347,
+      "city1": "CHENNAI",
+      "city2": "MADURAI",
+      "passengers_to_city2": 175872,
+      "passengers_from_city2": 174297,
+      "total_two_way_passengers": 350169
+    },
+    {
+      "sno": 390,
+      "city1": "COIMBATORE",
+      "city2": "DELHI",
+      "passengers_to_city2": 174312,
+      "passengers_from_city2": 170563,
+      "total_two_way_passengers": 344875
+    },
+    {
+      "sno": 200,
+      "city1": "BENGALURU",
+      "city2": "VARANASI",
+      "passengers_to_city2": 165467,
+      "passengers_from_city2": 177890,
+      "total_two_way_passengers": 343357
+    },
+    {
+      "sno": 643,
+      "city1": "JAIPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 167180,
+      "passengers_from_city2": 175591,
+      "total_two_way_passengers": 342771
+    },
+    {
+      "sno": 258,
+      "city1": "MUMBAI",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 166757,
+      "passengers_from_city2": 172107,
+      "total_two_way_passengers": 338864
+    },
+    {
+      "sno": 250,
+      "city1": "MUMBAI",
+      "city2": "DehraDun",
+      "passengers_to_city2": 174407,
+      "passengers_from_city2": 163846,
+      "total_two_way_passengers": 338253
+    },
+    {
+      "sno": 290,
+      "city1": "MUMBAI",
+      "city2": "RANCHI",
+      "passengers_to_city2": 161821,
+      "passengers_from_city2": 172835,
+      "total_two_way_passengers": 334656
+    },
+    {
+      "sno": 226,
+      "city1": "BHUBANESWAR",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 168533,
+      "passengers_from_city2": 164404,
+      "total_two_way_passengers": 332937
+    },
+    {
+      "sno": 298,
+      "city1": "MUMBAI",
+      "city2": "VADODARA",
+      "passengers_to_city2": 158026,
+      "passengers_from_city2": 168836,
+      "total_two_way_passengers": 326862
+    },
+    {
+      "sno": 491,
+      "city1": "DELHI",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 161062,
+      "passengers_from_city2": 165079,
+      "total_two_way_passengers": 326141
+    },
+    {
+      "sno": 289,
+      "city1": "MUMBAI",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 163744,
+      "passengers_from_city2": 159531,
+      "total_two_way_passengers": 323275
+    },
+    {
+      "sno": 362,
+      "city1": "CHENNAI",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 157302,
+      "passengers_from_city2": 164276,
+      "total_two_way_passengers": 321578
+    },
+    {
+      "sno": 483,
+      "city1": "DELHI",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 160328,
+      "passengers_from_city2": 159593,
+      "total_two_way_passengers": 319921
+    },
+    {
+      "sno": 207,
+      "city1": "BHOPAL",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 162060,
+      "passengers_from_city2": 155433,
+      "total_two_way_passengers": 317493
+    },
+    {
+      "sno": 180,
+      "city1": "BENGALURU",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 152975,
+      "passengers_from_city2": 161467,
+      "total_two_way_passengers": 314442
+    },
+    {
+      "sno": 332,
+      "city1": "CHENNAI",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 153960,
+      "passengers_from_city2": 152931,
+      "total_two_way_passengers": 306891
+    },
+    {
+      "sno": 445,
+      "city1": "DELHI",
+      "city2": "GORAKHPUR",
+      "passengers_to_city2": 155043,
+      "passengers_from_city2": 150962,
+      "total_two_way_passengers": 306005
+    },
+    {
+      "sno": 295,
+      "city1": "MUMBAI",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 149722,
+      "passengers_from_city2": 156071,
+      "total_two_way_passengers": 305793
+    },
+    {
+      "sno": 31,
+      "city1": "AHMEDABAD",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 152649,
+      "passengers_from_city2": 146948,
+      "total_two_way_passengers": 299597
+    },
+    {
+      "sno": 160,
+      "city1": "BENGALURU",
+      "city2": "INDORE",
+      "passengers_to_city2": 143583,
+      "passengers_from_city2": 153793,
+      "total_two_way_passengers": 297376
+    },
+    {
+      "sno": 147,
+      "city1": "BENGALURU",
+      "city2": "COIMBATORE",
+      "passengers_to_city2": 142912,
+      "passengers_from_city2": 154357,
+      "total_two_way_passengers": 297269
+    },
+    {
+      "sno": 577,
+      "city1": "HYDERABAD",
+      "city2": "INDORE",
+      "passengers_to_city2": 135596,
+      "passengers_from_city2": 144856,
+      "total_two_way_passengers": 280452
+    },
+    {
+      "sno": 321,
+      "city1": "CHANDIGARH",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 132485,
+      "passengers_from_city2": 137429,
+      "total_two_way_passengers": 269914
+    },
+    {
+      "sno": 271,
+      "city1": "MUMBAI",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 135187,
+      "passengers_from_city2": 134311,
+      "total_two_way_passengers": 269498
+    },
+    {
+      "sno": 677,
+      "city1": "KOLKATA",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 127243,
+      "passengers_from_city2": 141649,
+      "total_two_way_passengers": 268892
+    },
+    {
+      "sno": 615,
+      "city1": "HYDERABAD",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 131660,
+      "passengers_from_city2": 131080,
+      "total_two_way_passengers": 262740
+    },
+    {
+      "sno": 370,
+      "city1": "CHENNAI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 126750,
+      "passengers_from_city2": 135902,
+      "total_two_way_passengers": 262652
+    },
+    {
+      "sno": 459,
+      "city1": "DELHI",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 127783,
+      "passengers_from_city2": 126776,
+      "total_two_way_passengers": 254559
+    },
+    {
+      "sno": 603,
+      "city1": "HYDERABAD",
+      "city2": "RAJAHMUNDRY",
+      "passengers_to_city2": 128369,
+      "passengers_from_city2": 125987,
+      "total_two_way_passengers": 254356
+    },
+    {
+      "sno": 682,
+      "city1": "KOLKATA",
+      "city2": "PATNA",
+      "passengers_to_city2": 123969,
+      "passengers_from_city2": 127988,
+      "total_two_way_passengers": 251957
+    },
+    {
+      "sno": 649,
+      "city1": "JAIPUR",
+      "city2": "PUNE",
+      "passengers_to_city2": 131036,
+      "passengers_from_city2": 113116,
+      "total_two_way_passengers": 244152
+    },
+    {
+      "sno": 613,
+      "city1": "HYDERABAD",
+      "city2": "VARANASI",
+      "passengers_to_city2": 119421,
+      "passengers_from_city2": 122778,
+      "total_two_way_passengers": 242199
+    },
+    {
+      "sno": 115,
+      "city1": "BAGDOGRA",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 122099,
+      "passengers_from_city2": 117203,
+      "total_two_way_passengers": 239302
+    },
+    {
+      "sno": 441,
+      "city1": "DELHI",
+      "city2": "DIBRUGARH",
+      "passengers_to_city2": 134121,
+      "passengers_from_city2": 103939,
+      "total_two_way_passengers": 238060
+    },
+    {
+      "sno": 592,
+      "city1": "HYDERABAD",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 115619,
+      "passengers_from_city2": 121815,
+      "total_two_way_passengers": 237434
+    },
+    {
+      "sno": 486,
+      "city1": "DELHI",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 119122,
+      "passengers_from_city2": 115503,
+      "total_two_way_passengers": 234625
+    },
+    {
+      "sno": 598,
+      "city1": "HYDERABAD",
+      "city2": "PATNA",
+      "passengers_to_city2": 121570,
+      "passengers_from_city2": 111879,
+      "total_two_way_passengers": 233449
+    },
+    {
+      "sno": 690,
+      "city1": "KOLKATA",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 116694,
+      "passengers_from_city2": 116156,
+      "total_two_way_passengers": 232850
+    },
+    {
+      "sno": 310,
+      "city1": "CHANDIGARH",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 106427,
+      "passengers_from_city2": 116843,
+      "total_two_way_passengers": 223270
+    },
+    {
+      "sno": 186,
+      "city1": "BENGALURU",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 112150,
+      "passengers_from_city2": 111100,
+      "total_two_way_passengers": 223250
+    },
+    {
+      "sno": 451,
+      "city1": "DELHI",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 108850,
+      "passengers_from_city2": 108640,
+      "total_two_way_passengers": 217490
+    },
+    {
+      "sno": 202,
+      "city1": "BENGALURU",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 105352,
+      "passengers_from_city2": 110328,
+      "total_two_way_passengers": 215680
+    },
+    {
+      "sno": 685,
+      "city1": "KOLKATA",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 102940,
+      "passengers_from_city2": 111330,
+      "total_two_way_passengers": 214270
+    },
+    {
+      "sno": 111,
+      "city1": "AURANGABAD",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 111573,
+      "passengers_from_city2": 101870,
+      "total_two_way_passengers": 213443
+    },
+    {
+      "sno": 30,
+      "city1": "AHMEDABAD",
+      "city2": "CHANDIGARH",
+      "passengers_to_city2": 109004,
+      "passengers_from_city2": 101384,
+      "total_two_way_passengers": 210388
+    },
+    {
+      "sno": 602,
+      "city1": "HYDERABAD",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 103084,
+      "passengers_from_city2": 105194,
+      "total_two_way_passengers": 208278
+    },
+    {
+      "sno": 48,
+      "city1": "AHMEDABAD",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 104881,
+      "passengers_from_city2": 102283,
+      "total_two_way_passengers": 207164
+    },
+    {
+      "sno": 281,
+      "city1": "MUMBAI",
+      "city2": "MADURAI",
+      "passengers_to_city2": 103249,
+      "passengers_from_city2": 102919,
+      "total_two_way_passengers": 206168
+    },
+    {
+      "sno": 257,
+      "city1": "MUMBAI",
+      "city2": "GORAKHPUR",
+      "passengers_to_city2": 105392,
+      "passengers_from_city2": 100367,
+      "total_two_way_passengers": 205759
+    },
+    {
+      "sno": 42,
+      "city1": "AHMEDABAD",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 103357,
+      "passengers_from_city2": 100704,
+      "total_two_way_passengers": 204061
+    },
+    {
+      "sno": 497,
+      "city1": "DELHI",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 101145,
+      "passengers_from_city2": 102277,
+      "total_two_way_passengers": 203422
+    },
+    {
+      "sno": 508,
+      "city1": "DIBRUGARH",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 101816,
+      "passengers_from_city2": 97091,
+      "total_two_way_passengers": 198907
+    },
+    {
+      "sno": 419,
+      "city1": "DABOLIM",
+      "city2": "PUNE",
+      "passengers_to_city2": 100023,
+      "passengers_from_city2": 94587,
+      "total_two_way_passengers": 194610
+    },
+    {
+      "sno": 112,
+      "city1": "AURANGABAD",
+      "city2": "DELHI",
+      "passengers_to_city2": 96528,
+      "passengers_from_city2": 96222,
+      "total_two_way_passengers": 192750
+    },
+    {
+      "sno": 220,
+      "city1": "BHUBANESWAR",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 96048,
+      "passengers_from_city2": 93025,
+      "total_two_way_passengers": 189073
+    },
+    {
+      "sno": 278,
+      "city1": "MUMBAI",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 94782,
+      "passengers_from_city2": 93784,
+      "total_two_way_passengers": 188566
+    },
+    {
+      "sno": 605,
+      "city1": "HYDERABAD",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 88698,
+      "passengers_from_city2": 93007,
+      "total_two_way_passengers": 181705
+    },
+    {
+      "sno": 8,
+      "city1": "AGARTALA",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 85366,
+      "passengers_from_city2": 90296,
+      "total_two_way_passengers": 175662
+    },
+    {
+      "sno": 466,
+      "city1": "DELHI",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 86991,
+      "passengers_from_city2": 88384,
+      "total_two_way_passengers": 175375
+    },
+    {
+      "sno": 425,
+      "city1": "DARBHANGA",
+      "city2": "DELHI",
+      "passengers_to_city2": 86657,
+      "passengers_from_city2": 88464,
+      "total_two_way_passengers": 175121
+    },
+    {
+      "sno": 453,
+      "city1": "DELHI",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 88505,
+      "passengers_from_city2": 85314,
+      "total_two_way_passengers": 173819
+    },
+    {
+      "sno": 301,
+      "city1": "MUMBAI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 81906,
+      "passengers_from_city2": 91609,
+      "total_two_way_passengers": 173515
+    },
+    {
+      "sno": 363,
+      "city1": "CHENNAI",
+      "city2": "TIRUCHIRAPALLY",
+      "passengers_to_city2": 89514,
+      "passengers_from_city2": 83929,
+      "total_two_way_passengers": 173443
+    },
+    {
+      "sno": 416,
+      "city1": "DABOLIM",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 82822,
+      "passengers_from_city2": 84006,
+      "total_two_way_passengers": 166828
+    },
+    {
+      "sno": 415,
+      "city1": "DABOLIM",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 83886,
+      "passengers_from_city2": 79719,
+      "total_two_way_passengers": 163605
+    },
+    {
+      "sno": 359,
+      "city1": "CHENNAI",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 82164,
+      "passengers_from_city2": 79759,
+      "total_two_way_passengers": 161923
+    },
+    {
+      "sno": 149,
+      "city1": "BENGALURU",
+      "city2": "DARBHANGA",
+      "passengers_to_city2": 81325,
+      "passengers_from_city2": 80061,
+      "total_two_way_passengers": 161386
+    },
+    {
+      "sno": 730,
+      "city1": "PATNA",
+      "city2": "PUNE",
+      "passengers_to_city2": 84532,
+      "passengers_from_city2": 76790,
+      "total_two_way_passengers": 161322
+    },
+    {
+      "sno": 190,
+      "city1": "BENGALURU",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 80822,
+      "passengers_from_city2": 80231,
+      "total_two_way_passengers": 161053
+    },
+    {
+      "sno": 184,
+      "city1": "BENGALURU",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 80930,
+      "passengers_from_city2": 77819,
+      "total_two_way_passengers": 158749
+    },
+    {
+      "sno": 365,
+      "city1": "CHENNAI",
+      "city2": "TUTICORIN",
+      "passengers_to_city2": 81004,
+      "passengers_from_city2": 77181,
+      "total_two_way_passengers": 158185
+    },
+    {
+      "sno": 325,
+      "city1": "CHENNAI",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 78106,
+      "passengers_from_city2": 78959,
+      "total_two_way_passengers": 157065
+    },
+    {
+      "sno": 768,
+      "city1": "Goa",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 78635,
+      "passengers_from_city2": 76030,
+      "total_two_way_passengers": 154665
+    },
+    {
+      "sno": 193,
+      "city1": "BENGALURU",
+      "city2": "SURAT",
+      "passengers_to_city2": 74650,
+      "passengers_from_city2": 74247,
+      "total_two_way_passengers": 148897
+    },
+    {
+      "sno": 440,
+      "city1": "DELHI",
+      "city2": "DHARAMSALA",
+      "passengers_to_city2": 80729,
+      "passengers_from_city2": 67021,
+      "total_two_way_passengers": 147750
+    },
+    {
+      "sno": 249,
+      "city1": "MUMBAI",
+      "city2": "DARBHANGA",
+      "passengers_to_city2": 75505,
+      "passengers_from_city2": 72180,
+      "total_two_way_passengers": 147685
+    },
+    {
+      "sno": 109,
+      "city1": "AMRITSAR",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 76343,
+      "passengers_from_city2": 70511,
+      "total_two_way_passengers": 146854
+    },
+    {
+      "sno": 304,
+      "city1": "CHANDIGARH",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 71174,
+      "passengers_from_city2": 74389,
+      "total_two_way_passengers": 145563
+    },
+    {
+      "sno": 274,
+      "city1": "MUMBAI",
+      "city2": "KANPUR",
+      "passengers_to_city2": 72875,
+      "passengers_from_city2": 70248,
+      "total_two_way_passengers": 143123
+    },
+    {
+      "sno": 71,
+      "city1": "AIZAWL",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 72307,
+      "passengers_from_city2": 70736,
+      "total_two_way_passengers": 143043
+    },
+    {
+      "sno": 686,
+      "city1": "KOLKATA",
+      "city2": "RANCHI",
+      "passengers_to_city2": 71187,
+      "passengers_from_city2": 71702,
+      "total_two_way_passengers": 142889
+    },
+    {
+      "sno": 150,
+      "city1": "BENGALURU",
+      "city2": "DehraDun",
+      "passengers_to_city2": 70692,
+      "passengers_from_city2": 70540,
+      "total_two_way_passengers": 141232
+    },
+    {
+      "sno": 604,
+      "city1": "HYDERABAD",
+      "city2": "RANCHI",
+      "passengers_to_city2": 69366,
+      "passengers_from_city2": 70694,
+      "total_two_way_passengers": 140060
+    },
+    {
+      "sno": 64,
+      "city1": "AHMEDABAD",
+      "city2": "VARANASI",
+      "passengers_to_city2": 68770,
+      "passengers_from_city2": 69821,
+      "total_two_way_passengers": 138591
+    },
+    {
+      "sno": 52,
+      "city1": "AHMEDABAD",
+      "city2": "PATNA",
+      "passengers_to_city2": 69476,
+      "passengers_from_city2": 68374,
+      "total_two_way_passengers": 137850
+    },
+    {
+      "sno": 177,
+      "city1": "BENGALURU",
+      "city2": "MADURAI",
+      "passengers_to_city2": 68823,
+      "passengers_from_city2": 68903,
+      "total_two_way_passengers": 137726
+    },
+    {
+      "sno": 116,
+      "city1": "BAGDOGRA",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 70155,
+      "passengers_from_city2": 67086,
+      "total_two_way_passengers": 137241
+    },
+    {
+      "sno": 199,
+      "city1": "BENGALURU",
+      "city2": "VADODARA",
+      "passengers_to_city2": 66962,
+      "passengers_from_city2": 65073,
+      "total_two_way_passengers": 132035
+    },
+    {
+      "sno": 612,
+      "city1": "HYDERABAD",
+      "city2": "VADODARA",
+      "passengers_to_city2": 65092,
+      "passengers_from_city2": 66418,
+      "total_two_way_passengers": 131510
+    },
+    {
+      "sno": 516,
+      "city1": "DIMAPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 69402,
+      "passengers_from_city2": 61245,
+      "total_two_way_passengers": 130647
+    },
+    {
+      "sno": 422,
+      "city1": "DABOLIM",
+      "city2": "SURAT",
+      "passengers_to_city2": 65839,
+      "passengers_from_city2": 64383,
+      "total_two_way_passengers": 130222
+    },
+    {
+      "sno": 545,
+      "city1": "GUWAHATI",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 63463,
+      "passengers_from_city2": 65759,
+      "total_two_way_passengers": 129222
+    },
+    {
+      "sno": 86,
+      "city1": "ALLAHABAD",
+      "city2": "DELHI",
+      "passengers_to_city2": 64344,
+      "passengers_from_city2": 63646,
+      "total_two_way_passengers": 127990
+    },
+    {
+      "sno": 234,
+      "city1": "BHUBANESWAR",
+      "city2": "PUNE",
+      "passengers_to_city2": 64509,
+      "passengers_from_city2": 60800,
+      "total_two_way_passengers": 125309
+    },
+    {
+      "sno": 608,
+      "city1": "HYDERABAD",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 62791,
+      "passengers_from_city2": 61397,
+      "total_two_way_passengers": 124188
+    },
+    {
+      "sno": 543,
+      "city1": "GUWAHATI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 61221,
+      "passengers_from_city2": 60387,
+      "total_two_way_passengers": 121608
+    },
+    {
+      "sno": 6,
+      "city1": "AGARTALA",
+      "city2": "DELHI",
+      "passengers_to_city2": 61484,
+      "passengers_from_city2": 57998,
+      "total_two_way_passengers": 119482
+    },
+    {
+      "sno": 769,
+      "city1": "Goa",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 59253,
+      "passengers_from_city2": 59426,
+      "total_two_way_passengers": 118679
+    },
+    {
+      "sno": 120,
+      "city1": "BAGDOGRA",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 58923,
+      "passengers_from_city2": 59566,
+      "total_two_way_passengers": 118489
+    },
+    {
+      "sno": 338,
+      "city1": "CHENNAI",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 58570,
+      "passengers_from_city2": 59680,
+      "total_two_way_passengers": 118250
+    },
+    {
+      "sno": 383,
+      "city1": "KOCHI",
+      "city2": "PUNE",
+      "passengers_to_city2": 58383,
+      "passengers_from_city2": 58914,
+      "total_two_way_passengers": 117297
+    },
+    {
+      "sno": 35,
+      "city1": "AHMEDABAD",
+      "city2": "DehraDun",
+      "passengers_to_city2": 59127,
+      "passengers_from_city2": 57508,
+      "total_two_way_passengers": 116635
+    },
+    {
+      "sno": 593,
+      "city1": "HYDERABAD",
+      "city2": "MADURAI",
+      "passengers_to_city2": 59132,
+      "passengers_from_city2": 56709,
+      "total_two_way_passengers": 115841
+    },
+    {
+      "sno": 697,
+      "city1": "KOLKATA",
+      "city2": "VARANASI",
+      "passengers_to_city2": 54844,
+      "passengers_from_city2": 60314,
+      "total_two_way_passengers": 115158
+    },
+    {
+      "sno": 268,
+      "city1": "MUMBAI",
+      "city2": "JAMMU",
+      "passengers_to_city2": 90465,
+      "passengers_from_city2": 24332,
+      "total_two_way_passengers": 114797
+    },
+    {
+      "sno": 630,
+      "city1": "INDORE",
+      "city2": "PUNE",
+      "passengers_to_city2": 58925,
+      "passengers_from_city2": 54927,
+      "total_two_way_passengers": 113852
+    },
+    {
+      "sno": 443,
+      "city1": "DELHI",
+      "city2": "DURGAPUR",
+      "passengers_to_city2": 57438,
+      "passengers_from_city2": 56409,
+      "total_two_way_passengers": 113847
+    },
+    {
+      "sno": 692,
+      "city1": "KOLKATA",
+      "city2": "SURAT",
+      "passengers_to_city2": 57186,
+      "passengers_from_city2": 56659,
+      "total_two_way_passengers": 113845
+    },
+    {
+      "sno": 772,
+      "city1": "Goa",
+      "city2": "DELHI",
+      "passengers_to_city2": 58030,
+      "passengers_from_city2": 55510,
+      "total_two_way_passengers": 113540
+    },
+    {
+      "sno": 337,
+      "city1": "CHENNAI",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 56952,
+      "passengers_from_city2": 56470,
+      "total_two_way_passengers": 113422
+    },
+    {
+      "sno": 738,
+      "city1": "PUNE",
+      "city2": "RANCHI",
+      "passengers_to_city2": 55217,
+      "passengers_from_city2": 56812,
+      "total_two_way_passengers": 112029
+    },
+    {
+      "sno": 679,
+      "city1": "KOLKATA",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 53395,
+      "passengers_from_city2": 58309,
+      "total_two_way_passengers": 111704
+    },
+    {
+      "sno": 319,
+      "city1": "CHANDIGARH",
+      "city2": "PUNE",
+      "passengers_to_city2": 57856,
+      "passengers_from_city2": 53563,
+      "total_two_way_passengers": 111419
+    },
+    {
+      "sno": 471,
+      "city1": "DELHI",
+      "city2": "MADURAI",
+      "passengers_to_city2": 55601,
+      "passengers_from_city2": 55322,
+      "total_two_way_passengers": 110923
+    },
+    {
+      "sno": 698,
+      "city1": "KOLKATA",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 53388,
+      "passengers_from_city2": 56481,
+      "total_two_way_passengers": 109869
+    },
+    {
+      "sno": 69,
+      "city1": "AIZAWL",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 58377,
+      "passengers_from_city2": 51440,
+      "total_two_way_passengers": 109817
+    },
+    {
+      "sno": 631,
+      "city1": "INDORE",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 56814,
+      "passengers_from_city2": 52743,
+      "total_two_way_passengers": 109557
+    },
+    {
+      "sno": 153,
+      "city1": "BENGALURU",
+      "city2": "DURGAPUR",
+      "passengers_to_city2": 51591,
+      "passengers_from_city2": 57695,
+      "total_two_way_passengers": 109286
+    },
+    {
+      "sno": 157,
+      "city1": "BENGALURU",
+      "city2": "HUBLI",
+      "passengers_to_city2": 53897,
+      "passengers_from_city2": 55348,
+      "total_two_way_passengers": 109245
+    },
+    {
+      "sno": 273,
+      "city1": "MUMBAI",
+      "city2": "KANNUR",
+      "passengers_to_city2": 54838,
+      "passengers_from_city2": 51793,
+      "total_two_way_passengers": 106631
+    },
+    {
+      "sno": 330,
+      "city1": "CHENNAI",
+      "city2": "DURGAPUR",
+      "passengers_to_city2": 53675,
+      "passengers_from_city2": 52337,
+      "total_two_way_passengers": 106012
+    },
+    {
+      "sno": 195,
+      "city1": "BENGALURU",
+      "city2": "TIRUCHIRAPALLY",
+      "passengers_to_city2": 54182,
+      "passengers_from_city2": 51741,
+      "total_two_way_passengers": 105923
+    },
+    {
+      "sno": 140,
+      "city1": "BENGALURU",
+      "city2": "BHOPAL",
+      "passengers_to_city2": 50495,
+      "passengers_from_city2": 53359,
+      "total_two_way_passengers": 103854
+    },
+    {
+      "sno": 302,
+      "city1": "CHANDIGARH",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 48546,
+      "passengers_from_city2": 54753,
+      "total_two_way_passengers": 103299
+    },
+    {
+      "sno": 607,
+      "city1": "HYDERABAD",
+      "city2": "SURAT",
+      "passengers_to_city2": 49097,
+      "passengers_from_city2": 53900,
+      "total_two_way_passengers": 102997
+    },
+    {
+      "sno": 434,
+      "city1": "DehraDun",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 50734,
+      "passengers_from_city2": 52008,
+      "total_two_way_passengers": 102742
+    },
+    {
+      "sno": 710,
+      "city1": "LUCKNOW",
+      "city2": "PUNE",
+      "passengers_to_city2": 54092,
+      "passengers_from_city2": 48378,
+      "total_two_way_passengers": 102470
+    },
+    {
+      "sno": 265,
+      "city1": "MUMBAI",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 49373,
+      "passengers_from_city2": 52735,
+      "total_two_way_passengers": 102108
+    },
+    {
+      "sno": 444,
+      "city1": "DELHI",
+      "city2": "GAYA",
+      "passengers_to_city2": 51303,
+      "passengers_from_city2": 50422,
+      "total_two_way_passengers": 101725
+    },
+    {
+      "sno": 458,
+      "city1": "DELHI",
+      "city2": "JHARSUGUDA",
+      "passengers_to_city2": 51111,
+      "passengers_from_city2": 49518,
+      "total_two_way_passengers": 100629
+    },
+    {
+      "sno": 430,
+      "city1": "DehraDun",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 50551,
+      "passengers_from_city2": 49650,
+      "total_two_way_passengers": 100201
+    },
+    {
+      "sno": 269,
+      "city1": "MUMBAI",
+      "city2": "JAMNAGAR",
+      "passengers_to_city2": 51083,
+      "passengers_from_city2": 48031,
+      "total_two_way_passengers": 99114
+    },
+    {
+      "sno": 369,
+      "city1": "CHENNAI",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 47271,
+      "passengers_from_city2": 51512,
+      "total_two_way_passengers": 98783
+    },
+    {
+      "sno": 535,
+      "city1": "GORAKHPUR",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 48629,
+      "passengers_from_city2": 49716,
+      "total_two_way_passengers": 98345
+    },
+    {
+      "sno": 83,
+      "city1": "ALLAHABAD",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 47913,
+      "passengers_from_city2": 50361,
+      "total_two_way_passengers": 98274
+    },
+    {
+      "sno": 594,
+      "city1": "HYDERABAD",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 49906,
+      "passengers_from_city2": 48170,
+      "total_two_way_passengers": 98076
+    },
+    {
+      "sno": 480,
+      "city1": "DELHI",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 50471,
+      "passengers_from_city2": 47229,
+      "total_two_way_passengers": 97700
+    },
+    {
+      "sno": 255,
+      "city1": "MUMBAI",
+      "city2": "DURGAPUR",
+      "passengers_to_city2": 47344,
+      "passengers_from_city2": 49373,
+      "total_two_way_passengers": 96717
+    },
+    {
+      "sno": 377,
+      "city1": "KOCHI",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 46443,
+      "passengers_from_city2": 49887,
+      "total_two_way_passengers": 96330
+    },
+    {
+      "sno": 104,
+      "city1": "AMRITSAR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 49021,
+      "passengers_from_city2": 47164,
+      "total_two_way_passengers": 96185
+    },
+    {
+      "sno": 174,
+      "city1": "BENGALURU",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 46254,
+      "passengers_from_city2": 49724,
+      "total_two_way_passengers": 95978
+    },
+    {
+      "sno": 611,
+      "city1": "HYDERABAD",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 47003,
+      "passengers_from_city2": 48675,
+      "total_two_way_passengers": 95678
+    },
+    {
+      "sno": 626,
+      "city1": "INDORE",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 48811,
+      "passengers_from_city2": 46558,
+      "total_two_way_passengers": 95369
+    },
+    {
+      "sno": 3,
+      "city1": "AGARTALA",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 50176,
+      "passengers_from_city2": 44993,
+      "total_two_way_passengers": 95169
+    },
+    {
+      "sno": 346,
+      "city1": "CHENNAI",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 47102,
+      "passengers_from_city2": 46109,
+      "total_two_way_passengers": 93211
+    },
+    {
+      "sno": 358,
+      "city1": "CHENNAI",
+      "city2": "RANCHI",
+      "passengers_to_city2": 43879,
+      "passengers_from_city2": 49301,
+      "total_two_way_passengers": 93180
+    },
+    {
+      "sno": 657,
+      "city1": "JAMMU",
+      "city2": "LEH",
+      "passengers_to_city2": 30020,
+      "passengers_from_city2": 62995,
+      "total_two_way_passengers": 93015
+    },
+    {
+      "sno": 166,
+      "city1": "BENGALURU",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 45160,
+      "passengers_from_city2": 47316,
+      "total_two_way_passengers": 92476
+    },
+    {
+      "sno": 198,
+      "city1": "BENGALURU",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 45581,
+      "passengers_from_city2": 46207,
+      "total_two_way_passengers": 91788
+    },
+    {
+      "sno": 312,
+      "city1": "CHANDIGARH",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 48232,
+      "passengers_from_city2": 43518,
+      "total_two_way_passengers": 91750
+    },
+    {
+      "sno": 188,
+      "city1": "BENGALURU",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 44915,
+      "passengers_from_city2": 46769,
+      "total_two_way_passengers": 91684
+    },
+    {
+      "sno": 556,
+      "city1": "GUWAHATI",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 45022,
+      "passengers_from_city2": 46223,
+      "total_two_way_passengers": 91245
+    },
+    {
+      "sno": 187,
+      "city1": "BENGALURU",
+      "city2": "RAJAHMUNDRY",
+      "passengers_to_city2": 43568,
+      "passengers_from_city2": 46408,
+      "total_two_way_passengers": 89976
+    },
+    {
+      "sno": 170,
+      "city1": "BENGALURU",
+      "city2": "KANNUR",
+      "passengers_to_city2": 43337,
+      "passengers_from_city2": 45858,
+      "total_two_way_passengers": 89195
+    },
+    {
+      "sno": 426,
+      "city1": "DARBHANGA",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 46586,
+      "passengers_from_city2": 42513,
+      "total_two_way_passengers": 89099
+    },
+    {
+      "sno": 352,
+      "city1": "CHENNAI",
+      "city2": "PATNA",
+      "passengers_to_city2": 43960,
+      "passengers_from_city2": 44994,
+      "total_two_way_passengers": 88954
+    },
+    {
+      "sno": 709,
+      "city1": "LUCKNOW",
+      "city2": "PATNA",
+      "passengers_to_city2": 44640,
+      "passengers_from_city2": 43786,
+      "total_two_way_passengers": 88426
+    },
+    {
+      "sno": 553,
+      "city1": "GUWAHATI",
+      "city2": "PUNE",
+      "passengers_to_city2": 43486,
+      "passengers_from_city2": 44692,
+      "total_two_way_passengers": 88178
+    },
+    {
+      "sno": 665,
+      "city1": "JORHAT",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 41909,
+      "passengers_from_city2": 45037,
+      "total_two_way_passengers": 86946
+    },
+    {
+      "sno": 400,
+      "city1": "COIMBATORE",
+      "city2": "PUNE",
+      "passengers_to_city2": 45746,
+      "passengers_from_city2": 40825,
+      "total_two_way_passengers": 86571
+    },
+    {
+      "sno": 505,
+      "city1": "DIBRUGARH",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 53736,
+      "passengers_from_city2": 32686,
+      "total_two_way_passengers": 86422
+    },
+    {
+      "sno": 107,
+      "city1": "AMRITSAR",
+      "city2": "PUNE",
+      "passengers_to_city2": 42511,
+      "passengers_from_city2": 43778,
+      "total_two_way_passengers": 86289
+    },
+    {
+      "sno": 79,
+      "city1": "ALLAHABAD",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 43572,
+      "passengers_from_city2": 42598,
+      "total_two_way_passengers": 86170
+    },
+    {
+      "sno": 731,
+      "city1": "PATNA",
+      "city2": "RANCHI",
+      "passengers_to_city2": 43164,
+      "passengers_from_city2": 42573,
+      "total_two_way_passengers": 85737
+    },
+    {
+      "sno": 318,
+      "city1": "CHANDIGARH",
+      "city2": "PATNA",
+      "passengers_to_city2": 41665,
+      "passengers_from_city2": 43303,
+      "total_two_way_passengers": 84968
+    },
+    {
+      "sno": 412,
+      "city1": "DABOLIM",
+      "city2": "INDORE",
+      "passengers_to_city2": 42521,
+      "passengers_from_city2": 42419,
+      "total_two_way_passengers": 84940
+    },
+    {
+      "sno": 317,
+      "city1": "CHANDIGARH",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 40206,
+      "passengers_from_city2": 44060,
+      "total_two_way_passengers": 84266
+    },
+    {
+      "sno": 550,
+      "city1": "GUWAHATI",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 43086,
+      "passengers_from_city2": 40603,
+      "total_two_way_passengers": 83689
+    },
+    {
+      "sno": 368,
+      "city1": "CHENNAI",
+      "city2": "VARANASI",
+      "passengers_to_city2": 40311,
+      "passengers_from_city2": 41638,
+      "total_two_way_passengers": 81949
+    },
+    {
+      "sno": 609,
+      "city1": "HYDERABAD",
+      "city2": "TIRUCHIRAPALLY",
+      "passengers_to_city2": 40983,
+      "passengers_from_city2": 39574,
+      "total_two_way_passengers": 80557
+    },
+    {
+      "sno": 702,
+      "city1": "LEH",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 67940,
+      "passengers_from_city2": 12480,
+      "total_two_way_passengers": 80420
+    },
+    {
+      "sno": 774,
+      "city1": "Goa",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 40569,
+      "passengers_from_city2": 39660,
+      "total_two_way_passengers": 80229
+    },
+    {
+      "sno": 552,
+      "city1": "GUWAHATI",
+      "city2": "PATNA",
+      "passengers_to_city2": 38290,
+      "passengers_from_city2": 41920,
+      "total_two_way_passengers": 80210
+    },
+    {
+      "sno": 49,
+      "city1": "AHMEDABAD",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 40118,
+      "passengers_from_city2": 39872,
+      "total_two_way_passengers": 79990
+    },
+    {
+      "sno": 32,
+      "city1": "AHMEDABAD",
+      "city2": "KOCHI",
+      "passengers_to_city2": 41437,
+      "passengers_from_city2": 38549,
+      "total_two_way_passengers": 79986
+    },
+    {
+      "sno": 413,
+      "city1": "DABOLIM",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 39859,
+      "passengers_from_city2": 39330,
+      "total_two_way_passengers": 79189
+    },
+    {
+      "sno": 712,
+      "city1": "LUCKNOW",
+      "city2": "RANCHI",
+      "passengers_to_city2": 38424,
+      "passengers_from_city2": 40052,
+      "total_two_way_passengers": 78476
+    },
+    {
+      "sno": 652,
+      "city1": "JAIPUR",
+      "city2": "SURAT",
+      "passengers_to_city2": 38914,
+      "passengers_from_city2": 39495,
+      "total_two_way_passengers": 78409
+    },
+    {
+      "sno": 314,
+      "city1": "CHANDIGARH",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 34523,
+      "passengers_from_city2": 41803,
+      "total_two_way_passengers": 76326
+    },
+    {
+      "sno": 418,
+      "city1": "DABOLIM",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 37533,
+      "passengers_from_city2": 35411,
+      "total_two_way_passengers": 72944
+    },
+    {
+      "sno": 171,
+      "city1": "BENGALURU",
+      "city2": "KANPUR",
+      "passengers_to_city2": 33593,
+      "passengers_from_city2": 38850,
+      "total_two_way_passengers": 72443
+    },
+    {
+      "sno": 522,
+      "city1": "DURGAPUR",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 36430,
+      "passengers_from_city2": 34621,
+      "total_two_way_passengers": 71051
+    },
+    {
+      "sno": 595,
+      "city1": "HYDERABAD",
+      "city2": "MYSORE",
+      "passengers_to_city2": 36490,
+      "passengers_from_city2": 34318,
+      "total_two_way_passengers": 70808
+    },
+    {
+      "sno": 113,
+      "city1": "AURANGABAD",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 36770,
+      "passengers_from_city2": 32529,
+      "total_two_way_passengers": 69299
+    },
+    {
+      "sno": 361,
+      "city1": "CHENNAI",
+      "city2": "SURAT",
+      "passengers_to_city2": 34387,
+      "passengers_from_city2": 34788,
+      "total_two_way_passengers": 69175
+    },
+    {
+      "sno": 584,
+      "city1": "HYDERABAD",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 33969,
+      "passengers_from_city2": 34588,
+      "total_two_way_passengers": 68557
+    },
+    {
+      "sno": 427,
+      "city1": "DARBHANGA",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 36263,
+      "passengers_from_city2": 32098,
+      "total_two_way_passengers": 68361
+    },
+    {
+      "sno": 93,
+      "city1": "AMRITSAR",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 33738,
+      "passengers_from_city2": 33853,
+      "total_two_way_passengers": 67591
+    },
+    {
+      "sno": 129,
+      "city1": "BELGAUM",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 33483,
+      "passengers_from_city2": 33416,
+      "total_two_way_passengers": 66899
+    },
+    {
+      "sno": 41,
+      "city1": "AHMEDABAD",
+      "city2": "INDORE",
+      "passengers_to_city2": 32521,
+      "passengers_from_city2": 33269,
+      "total_two_way_passengers": 65790
+    },
+    {
+      "sno": 335,
+      "city1": "CHENNAI",
+      "city2": "INDORE",
+      "passengers_to_city2": 32350,
+      "passengers_from_city2": 33280,
+      "total_two_way_passengers": 65630
+    },
+    {
+      "sno": 442,
+      "city1": "DELHI",
+      "city2": "DIMAPUR",
+      "passengers_to_city2": 32089,
+      "passengers_from_city2": 33167,
+      "total_two_way_passengers": 65256
+    },
+    {
+      "sno": 23,
+      "city1": "AHMEDABAD",
+      "city2": "BAGDOGRA",
+      "passengers_to_city2": 33123,
+      "passengers_from_city2": 31013,
+      "total_two_way_passengers": 64136
+    },
+    {
+      "sno": 169,
+      "city1": "BENGALURU",
+      "city2": "KALABURAGI",
+      "passengers_to_city2": 32048,
+      "passengers_from_city2": 31803,
+      "total_two_way_passengers": 63851
+    },
+    {
+      "sno": 132,
+      "city1": "BELGAUM",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 32075,
+      "passengers_from_city2": 30528,
+      "total_two_way_passengers": 62603
+    },
+    {
+      "sno": 344,
+      "city1": "CHENNAI",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 31060,
+      "passengers_from_city2": 31236,
+      "total_two_way_passengers": 62296
+    },
+    {
+      "sno": 474,
+      "city1": "DELHI",
+      "city2": "NASIK",
+      "passengers_to_city2": 30627,
+      "passengers_from_city2": 31446,
+      "total_two_way_passengers": 62073
+    },
+    {
+      "sno": 126,
+      "city1": "BAREILLY",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 30658,
+      "passengers_from_city2": 31130,
+      "total_two_way_passengers": 61788
+    },
+    {
+      "sno": 355,
+      "city1": "CHENNAI",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 30294,
+      "passengers_from_city2": 30460,
+      "total_two_way_passengers": 60754
+    },
+    {
+      "sno": 118,
+      "city1": "BAGDOGRA",
+      "city2": "DIBRUGARH",
+      "passengers_to_city2": 33356,
+      "passengers_from_city2": 26835,
+      "total_two_way_passengers": 60191
+    },
+    {
+      "sno": 447,
+      "city1": "DELHI",
+      "city2": "GWALIOR",
+      "passengers_to_city2": 27102,
+      "passengers_from_city2": 32870,
+      "total_two_way_passengers": 59972
+    },
+    {
+      "sno": 606,
+      "city1": "HYDERABAD",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 30429,
+      "passengers_from_city2": 29425,
+      "total_two_way_passengers": 59854
+    },
+    {
+      "sno": 589,
+      "city1": "HYDERABAD",
+      "city2": "KOLHAPUR",
+      "passengers_to_city2": 30348,
+      "passengers_from_city2": 29381,
+      "total_two_way_passengers": 59729
+    },
+    {
+      "sno": 431,
+      "city1": "DehraDun",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 31877,
+      "passengers_from_city2": 27620,
+      "total_two_way_passengers": 59497
+    },
+    {
+      "sno": 233,
+      "city1": "BHUBANESWAR",
+      "city2": "PATNA",
+      "passengers_to_city2": 29945,
+      "passengers_from_city2": 29199,
+      "total_two_way_passengers": 59144
+    },
+    {
+      "sno": 18,
+      "city1": "AGRA",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 29862,
+      "passengers_from_city2": 28726,
+      "total_two_way_passengers": 58588
+    },
+    {
+      "sno": 439,
+      "city1": "DELHI",
+      "city2": "Deoghar",
+      "passengers_to_city2": 29488,
+      "passengers_from_city2": 28666,
+      "total_two_way_passengers": 58154
+    },
+    {
+      "sno": 740,
+      "city1": "PUNE",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 29324,
+      "passengers_from_city2": 28741,
+      "total_two_way_passengers": 58065
+    },
+    {
+      "sno": 472,
+      "city1": "DELHI",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 29118,
+      "passengers_from_city2": 28849,
+      "total_two_way_passengers": 57967
+    },
+    {
+      "sno": 272,
+      "city1": "MUMBAI",
+      "city2": "KANDLA",
+      "passengers_to_city2": 28407,
+      "passengers_from_city2": 27692,
+      "total_two_way_passengers": 56099
+    },
+    {
+      "sno": 156,
+      "city1": "BENGALURU",
+      "city2": "GWALIOR",
+      "passengers_to_city2": 27806,
+      "passengers_from_city2": 28025,
+      "total_two_way_passengers": 55831
+    },
+    {
+      "sno": 493,
+      "city1": "DELHI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 30330,
+      "passengers_from_city2": 24798,
+      "total_two_way_passengers": 55128
+    },
+    {
+      "sno": 456,
+      "city1": "DELHI",
+      "city2": "JAISALMER",
+      "passengers_to_city2": 27451,
+      "passengers_from_city2": 27674,
+      "total_two_way_passengers": 55125
+    },
+    {
+      "sno": 623,
+      "city1": "INDORE",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 27891,
+      "passengers_from_city2": 26899,
+      "total_two_way_passengers": 54790
+    },
+    {
+      "sno": 131,
+      "city1": "BELGAUM",
+      "city2": "DELHI",
+      "passengers_to_city2": 28052,
+      "passengers_from_city2": 26594,
+      "total_two_way_passengers": 54646
+    },
+    {
+      "sno": 212,
+      "city1": "BHOPAL",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 28075,
+      "passengers_from_city2": 26393,
+      "total_two_way_passengers": 54468
+    },
+    {
+      "sno": 600,
+      "city1": "HYDERABAD",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 26491,
+      "passengers_from_city2": 27969,
+      "total_two_way_passengers": 54460
+    },
+    {
+      "sno": 27,
+      "city1": "AHMEDABAD",
+      "city2": "BHUBANESWAR",
+      "passengers_to_city2": 27507,
+      "passengers_from_city2": 26620,
+      "total_two_way_passengers": 54127
+    },
+    {
+      "sno": 476,
+      "city1": "DELHI",
+      "city2": "PANTNAGAR",
+      "passengers_to_city2": 26477,
+      "passengers_from_city2": 26411,
+      "total_two_way_passengers": 52888
+    },
+    {
+      "sno": 596,
+      "city1": "HYDERABAD",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 25534,
+      "passengers_from_city2": 26823,
+      "total_two_way_passengers": 52357
+    },
+    {
+      "sno": 578,
+      "city1": "HYDERABAD",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 25156,
+      "passengers_from_city2": 26915,
+      "total_two_way_passengers": 52071
+    },
+    {
+      "sno": 599,
+      "city1": "HYDERABAD",
+      "city2": "PONDICHERRY",
+      "passengers_to_city2": 25877,
+      "passengers_from_city2": 25359,
+      "total_two_way_passengers": 51236
+    },
+    {
+      "sno": 296,
+      "city1": "MUMBAI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 26257,
+      "passengers_from_city2": 24840,
+      "total_two_way_passengers": 51097
+    },
+    {
+      "sno": 125,
+      "city1": "BAREILLY",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 25866,
+      "passengers_from_city2": 25228,
+      "total_two_way_passengers": 51094
+    },
+    {
+      "sno": 530,
+      "city1": "GAYA",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 27591,
+      "passengers_from_city2": 23037,
+      "total_two_way_passengers": 50628
+    },
+    {
+      "sno": 737,
+      "city1": "PUNE",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 24698,
+      "passengers_from_city2": 25167,
+      "total_two_way_passengers": 49865
+    },
+    {
+      "sno": 350,
+      "city1": "CHENNAI",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 26624,
+      "passengers_from_city2": 23086,
+      "total_two_way_passengers": 49710
+    },
+    {
+      "sno": 629,
+      "city1": "INDORE",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 24458,
+      "passengers_from_city2": 24640,
+      "total_two_way_passengers": 49098
+    },
+    {
+      "sno": 22,
+      "city1": "AHMEDABAD",
+      "city2": "AMRITSAR",
+      "passengers_to_city2": 23717,
+      "passengers_from_city2": 24966,
+      "total_two_way_passengers": 48683
+    },
+    {
+      "sno": 349,
+      "city1": "CHENNAI",
+      "city2": "MYSORE",
+      "passengers_to_city2": 24032,
+      "passengers_from_city2": 24518,
+      "total_two_way_passengers": 48550
+    },
+    {
+      "sno": 348,
+      "city1": "CHENNAI",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 24712,
+      "passengers_from_city2": 23793,
+      "total_two_way_passengers": 48505
+    },
+    {
+      "sno": 627,
+      "city1": "INDORE",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 23237,
+      "passengers_from_city2": 25163,
+      "total_two_way_passengers": 48400
+    },
+    {
+      "sno": 356,
+      "city1": "CHENNAI",
+      "city2": "RAJAHMUNDRY",
+      "passengers_to_city2": 22719,
+      "passengers_from_city2": 25397,
+      "total_two_way_passengers": 48116
+    },
+    {
+      "sno": 261,
+      "city1": "MUMBAI",
+      "city2": "HUBLI",
+      "passengers_to_city2": 24481,
+      "passengers_from_city2": 23335,
+      "total_two_way_passengers": 47816
+    },
+    {
+      "sno": 196,
+      "city1": "BENGALURU",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 23937,
+      "passengers_from_city2": 23760,
+      "total_two_way_passengers": 47697
+    },
+    {
+      "sno": 538,
+      "city1": "GORAKHPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 24388,
+      "passengers_from_city2": 23241,
+      "total_two_way_passengers": 47629
+    },
+    {
+      "sno": 645,
+      "city1": "JAIPUR",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 23595,
+      "passengers_from_city2": 23457,
+      "total_two_way_passengers": 47052
+    },
+    {
+      "sno": 591,
+      "city1": "HYDERABAD",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 23498,
+      "passengers_from_city2": 23517,
+      "total_two_way_passengers": 47015
+    },
+    {
+      "sno": 778,
+      "city1": "Goa",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 24293,
+      "passengers_from_city2": 22687,
+      "total_two_way_passengers": 46980
+    },
+    {
+      "sno": 97,
+      "city1": "AMRITSAR",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 22190,
+      "passengers_from_city2": 24720,
+      "total_two_way_passengers": 46910
+    },
+    {
+      "sno": 130,
+      "city1": "BELGAUM",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 23326,
+      "passengers_from_city2": 23543,
+      "total_two_way_passengers": 46869
+    },
+    {
+      "sno": 386,
+      "city1": "KOCHI",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 23188,
+      "passengers_from_city2": 23185,
+      "total_two_way_passengers": 46373
+    },
+    {
+      "sno": 55,
+      "city1": "AHMEDABAD",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 23552,
+      "passengers_from_city2": 22596,
+      "total_two_way_passengers": 46148
+    },
+    {
+      "sno": 762,
+      "city1": "TIRUPATI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 21858,
+      "passengers_from_city2": 23718,
+      "total_two_way_passengers": 45576
+    },
+    {
+      "sno": 587,
+      "city1": "HYDERABAD",
+      "city2": "KANNUR",
+      "passengers_to_city2": 22101,
+      "passengers_from_city2": 22940,
+      "total_two_way_passengers": 45041
+    },
+    {
+      "sno": 57,
+      "city1": "AHMEDABAD",
+      "city2": "RANCHI",
+      "passengers_to_city2": 22337,
+      "passengers_from_city2": 22563,
+      "total_two_way_passengers": 44900
+    },
+    {
+      "sno": 420,
+      "city1": "DABOLIM",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 21736,
+      "passengers_from_city2": 23145,
+      "total_two_way_passengers": 44881
+    },
+    {
+      "sno": 67,
+      "city1": "AIZAWL",
+      "city2": "DELHI",
+      "passengers_to_city2": 22073,
+      "passengers_from_city2": 22585,
+      "total_two_way_passengers": 44658
+    },
+    {
+      "sno": 764,
+      "city1": "VIJAYAWADA",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 22182,
+      "passengers_from_city2": 22129,
+      "total_two_way_passengers": 44311
+    },
+    {
+      "sno": 340,
+      "city1": "CHENNAI",
+      "city2": "KANNUR",
+      "passengers_to_city2": 23184,
+      "passengers_from_city2": 21048,
+      "total_two_way_passengers": 44232
+    },
+    {
+      "sno": 707,
+      "city1": "LUCKNOW",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 23229,
+      "passengers_from_city2": 20853,
+      "total_two_way_passengers": 44082
+    },
+    {
+      "sno": 259,
+      "city1": "MUMBAI",
+      "city2": "GWALIOR",
+      "passengers_to_city2": 21752,
+      "passengers_from_city2": 22043,
+      "total_two_way_passengers": 43795
+    },
+    {
+      "sno": 376,
+      "city1": "KOCHI",
+      "city2": "KANNUR",
+      "passengers_to_city2": 21134,
+      "passengers_from_city2": 22563,
+      "total_two_way_passengers": 43697
+    },
+    {
+      "sno": 26,
+      "city1": "AHMEDABAD",
+      "city2": "BHOPAL",
+      "passengers_to_city2": 21033,
+      "passengers_from_city2": 22424,
+      "total_two_way_passengers": 43457
+    },
+    {
+      "sno": 227,
+      "city1": "BHUBANESWAR",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 20840,
+      "passengers_from_city2": 22613,
+      "total_two_way_passengers": 43453
+    },
+    {
+      "sno": 449,
+      "city1": "DELHI",
+      "city2": "HUBLI",
+      "passengers_to_city2": 21857,
+      "passengers_from_city2": 21564,
+      "total_two_way_passengers": 43421
+    },
+    {
+      "sno": 92,
+      "city1": "ALLAHABAD",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 21782,
+      "passengers_from_city2": 21067,
+      "total_two_way_passengers": 42849
+    },
+    {
+      "sno": 91,
+      "city1": "ALLAHABAD",
+      "city2": "PUNE",
+      "passengers_to_city2": 21321,
+      "passengers_from_city2": 21390,
+      "total_two_way_passengers": 42711
+    },
+    {
+      "sno": 653,
+      "city1": "JAIPUR",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 21770,
+      "passengers_from_city2": 20680,
+      "total_two_way_passengers": 42450
+    },
+    {
+      "sno": 15,
+      "city1": "AGATTI ISLAND",
+      "city2": "KOCHI",
+      "passengers_to_city2": 18935,
+      "passengers_from_city2": 22950,
+      "total_two_way_passengers": 41885
+    },
+    {
+      "sno": 197,
+      "city1": "BENGALURU",
+      "city2": "TUTICORIN",
+      "passengers_to_city2": 21472,
+      "passengers_from_city2": 19819,
+      "total_two_way_passengers": 41291
+    },
+    {
+      "sno": 333,
+      "city1": "CHENNAI",
+      "city2": "HUBLI",
+      "passengers_to_city2": 20058,
+      "passengers_from_city2": 21116,
+      "total_two_way_passengers": 41174
+    },
+    {
+      "sno": 204,
+      "city1": "BHAVNAGAR",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 20006,
+      "passengers_from_city2": 21144,
+      "total_two_way_passengers": 41150
+    },
+    {
+      "sno": 638,
+      "city1": "JABALPUR",
+      "city2": "PUNE",
+      "passengers_to_city2": 20504,
+      "passengers_from_city2": 20573,
+      "total_two_way_passengers": 41077
+    },
+    {
+      "sno": 671,
+      "city1": "KANNUR",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 19752,
+      "passengers_from_city2": 20916,
+      "total_two_way_passengers": 40668
+    },
+    {
+      "sno": 238,
+      "city1": "BHUBANESWAR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 19769,
+      "passengers_from_city2": 20815,
+      "total_two_way_passengers": 40584
+    },
+    {
+      "sno": 570,
+      "city1": "HUBLI",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 20714,
+      "passengers_from_city2": 19716,
+      "total_two_way_passengers": 40430
+    },
+    {
+      "sno": 675,
+      "city1": "KOLHAPUR",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 17801,
+      "passengers_from_city2": 22553,
+      "total_two_way_passengers": 40354
+    },
+    {
+      "sno": 776,
+      "city1": "Goa",
+      "city2": "CHANDIGARH",
+      "passengers_to_city2": 20306,
+      "passengers_from_city2": 20047,
+      "total_two_way_passengers": 40353
+    },
+    {
+      "sno": 254,
+      "city1": "MUMBAI",
+      "city2": "DIU",
+      "passengers_to_city2": 19585,
+      "passengers_from_city2": 20407,
+      "total_two_way_passengers": 39992
+    },
+    {
+      "sno": 487,
+      "city1": "DELHI",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 19842,
+      "passengers_from_city2": 20080,
+      "total_two_way_passengers": 39922
+    },
+    {
+      "sno": 662,
+      "city1": "JHARSUGUDA",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 20559,
+      "passengers_from_city2": 18848,
+      "total_two_way_passengers": 39407
+    },
+    {
+      "sno": 235,
+      "city1": "BHUBANESWAR",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 19685,
+      "passengers_from_city2": 19129,
+      "total_two_way_passengers": 38814
+    },
+    {
+      "sno": 463,
+      "city1": "DELHI",
+      "city2": "KANPUR",
+      "passengers_to_city2": 19487,
+      "passengers_from_city2": 19138,
+      "total_two_way_passengers": 38625
+    },
+    {
+      "sno": 81,
+      "city1": "ALLAHABAD",
+      "city2": "BHUBANESWAR",
+      "passengers_to_city2": 18482,
+      "passengers_from_city2": 20100,
+      "total_two_way_passengers": 38582
+    },
+    {
+      "sno": 622,
+      "city1": "INDORE",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 18895,
+      "passengers_from_city2": 19686,
+      "total_two_way_passengers": 38581
+    },
+    {
+      "sno": 624,
+      "city1": "INDORE",
+      "city2": "JAMMU",
+      "passengers_to_city2": 19330,
+      "passengers_from_city2": 18414,
+      "total_two_way_passengers": 37744
+    },
+    {
+      "sno": 192,
+      "city1": "BENGALURU",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 17916,
+      "passengers_from_city2": 19797,
+      "total_two_way_passengers": 37713
+    },
+    {
+      "sno": 689,
+      "city1": "KOLKATA",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 20442,
+      "passengers_from_city2": 16700,
+      "total_two_way_passengers": 37142
+    },
+    {
+      "sno": 105,
+      "city1": "AMRITSAR",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 18945,
+      "passengers_from_city2": 17979,
+      "total_two_way_passengers": 36924
+    },
+    {
+      "sno": 765,
+      "city1": "Goa",
+      "city2": "AHMEDABAD",
+      "passengers_to_city2": 17543,
+      "passengers_from_city2": 19378,
+      "total_two_way_passengers": 36921
+    },
+    {
+      "sno": 20,
+      "city1": "AGRA",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 18336,
+      "passengers_from_city2": 18180,
+      "total_two_way_passengers": 36516
+    },
+    {
+      "sno": 691,
+      "city1": "KOLKATA",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 18107,
+      "passengers_from_city2": 18242,
+      "total_two_way_passengers": 36349
+    },
+    {
+      "sno": 316,
+      "city1": "CHANDIGARH",
+      "city2": "LEH",
+      "passengers_to_city2": 14910,
+      "passengers_from_city2": 21403,
+      "total_two_way_passengers": 36313
+    },
+    {
+      "sno": 216,
+      "city1": "BHOPAL",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 17911,
+      "passengers_from_city2": 18055,
+      "total_two_way_passengers": 35966
+    },
+    {
+      "sno": 88,
+      "city1": "ALLAHABAD",
+      "city2": "INDORE",
+      "passengers_to_city2": 18917,
+      "passengers_from_city2": 17030,
+      "total_two_way_passengers": 35947
+    },
+    {
+      "sno": 119,
+      "city1": "BAGDOGRA",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 32047,
+      "passengers_from_city2": 3598,
+      "total_two_way_passengers": 35645
+    },
+    {
+      "sno": 286,
+      "city1": "MUMBAI",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 18787,
+      "passengers_from_city2": 16619,
+      "total_two_way_passengers": 35406
+    },
+    {
+      "sno": 9,
+      "city1": "AGARTALA",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 14798,
+      "passengers_from_city2": 19388,
+      "total_two_way_passengers": 34186
+    },
+    {
+      "sno": 711,
+      "city1": "LUCKNOW",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 17327,
+      "passengers_from_city2": 16388,
+      "total_two_way_passengers": 33715
+    },
+    {
+      "sno": 585,
+      "city1": "HYDERABAD",
+      "city2": "Cuddapah",
+      "passengers_to_city2": 16658,
+      "passengers_from_city2": 16894,
+      "total_two_way_passengers": 33552
+    },
+    {
+      "sno": 437,
+      "city1": "DehraDun",
+      "city2": "PUNE",
+      "passengers_to_city2": 17635,
+      "passengers_from_city2": 15886,
+      "total_two_way_passengers": 33521
+    },
+    {
+      "sno": 292,
+      "city1": "MUMBAI",
+      "city2": "Malvan",
+      "passengers_to_city2": 17010,
+      "passengers_from_city2": 16487,
+      "total_two_way_passengers": 33497
+    },
+    {
+      "sno": 85,
+      "city1": "ALLAHABAD",
+      "city2": "DehraDun",
+      "passengers_to_city2": 16313,
+      "passengers_from_city2": 16928,
+      "total_two_way_passengers": 33241
+    },
+    {
+      "sno": 45,
+      "city1": "AHMEDABAD",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 16966,
+      "passengers_from_city2": 15705,
+      "total_two_way_passengers": 32671
+    },
+    {
+      "sno": 514,
+      "city1": "DIMAPUR",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 17571,
+      "passengers_from_city2": 14443,
+      "total_two_way_passengers": 32014
+    },
+    {
+      "sno": 664,
+      "city1": "JODHPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 16627,
+      "passengers_from_city2": 15296,
+      "total_two_way_passengers": 31923
+    },
+    {
+      "sno": 688,
+      "city1": "KOLKATA",
+      "city2": "RUPSI",
+      "passengers_to_city2": 15563,
+      "passengers_from_city2": 15919,
+      "total_two_way_passengers": 31482
+    },
+    {
+      "sno": 462,
+      "city1": "DELHI",
+      "city2": "KANNUR",
+      "passengers_to_city2": 15500,
+      "passengers_from_city2": 15540,
+      "total_two_way_passengers": 31040
+    },
+    {
+      "sno": 230,
+      "city1": "BHUBANESWAR",
+      "city2": "JHARSUGUDA",
+      "passengers_to_city2": 14960,
+      "passengers_from_city2": 15793,
+      "total_two_way_passengers": 30753
+    },
+    {
+      "sno": 761,
+      "city1": "TIRUPATI",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 15174,
+      "passengers_from_city2": 15488,
+      "total_two_way_passengers": 30662
+    },
+    {
+      "sno": 239,
+      "city1": "BHUJ",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 14957,
+      "passengers_from_city2": 15479,
+      "total_two_way_passengers": 30436
+    },
+    {
+      "sno": 736,
+      "city1": "PORT BLAIR",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 13271,
+      "passengers_from_city2": 17099,
+      "total_two_way_passengers": 30370
+    },
+    {
+      "sno": 183,
+      "city1": "BENGALURU",
+      "city2": "PONDICHERRY",
+      "passengers_to_city2": 14574,
+      "passengers_from_city2": 15532,
+      "total_two_way_passengers": 30106
+    },
+    {
+      "sno": 161,
+      "city1": "BENGALURU",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 14863,
+      "passengers_from_city2": 15108,
+      "total_two_way_passengers": 29971
+    },
+    {
+      "sno": 579,
+      "city1": "HYDERABAD",
+      "city2": "JAGDALPUR",
+      "passengers_to_city2": 15018,
+      "passengers_from_city2": 14893,
+      "total_two_way_passengers": 29911
+    },
+    {
+      "sno": 267,
+      "city1": "MUMBAI",
+      "city2": "JAISALMER",
+      "passengers_to_city2": 13702,
+      "passengers_from_city2": 15895,
+      "total_two_way_passengers": 29597
+    },
+    {
+      "sno": 106,
+      "city1": "AMRITSAR",
+      "city2": "PATNA",
+      "passengers_to_city2": 14667,
+      "passengers_from_city2": 14593,
+      "total_two_way_passengers": 29260
+    },
+    {
+      "sno": 640,
+      "city1": "JAGDALPUR",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 14559,
+      "passengers_from_city2": 14413,
+      "total_two_way_passengers": 28972
+    },
+    {
+      "sno": 127,
+      "city1": "BAREILLY",
+      "city2": "DELHI",
+      "passengers_to_city2": 15152,
+      "passengers_from_city2": 13537,
+      "total_two_way_passengers": 28689
+    },
+    {
+      "sno": 205,
+      "city1": "BHAVNAGAR",
+      "city2": "PUNE",
+      "passengers_to_city2": 14468,
+      "passengers_from_city2": 14220,
+      "total_two_way_passengers": 28688
+    },
+    {
+      "sno": 7,
+      "city1": "AGARTALA",
+      "city2": "DIBRUGARH",
+      "passengers_to_city2": 13266,
+      "passengers_from_city2": 15232,
+      "total_two_way_passengers": 28498
+    },
+    {
+      "sno": 421,
+      "city1": "DABOLIM",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 14629,
+      "passengers_from_city2": 13482,
+      "total_two_way_passengers": 28111
+    },
+    {
+      "sno": 718,
+      "city1": "MANGALORE",
+      "city2": "PUNE",
+      "passengers_to_city2": 13619,
+      "passengers_from_city2": 13923,
+      "total_two_way_passengers": 27542
+    },
+    {
+      "sno": 433,
+      "city1": "DehraDun",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 14298,
+      "passengers_from_city2": 13229,
+      "total_two_way_passengers": 27527
+    },
+    {
+      "sno": 464,
+      "city1": "DELHI",
+      "city2": "KHAJURAHO",
+      "passengers_to_city2": 13645,
+      "passengers_from_city2": 13849,
+      "total_two_way_passengers": 27494
+    },
+    {
+      "sno": 597,
+      "city1": "HYDERABAD",
+      "city2": "NASIK",
+      "passengers_to_city2": 13604,
+      "passengers_from_city2": 13546,
+      "total_two_way_passengers": 27150
+    },
+    {
+      "sno": 279,
+      "city1": "MUMBAI",
+      "city2": "LEH",
+      "passengers_to_city2": 26844,
+      "passengers_from_city2": 10,
+      "total_two_way_passengers": 26854
+    },
+    {
+      "sno": 782,
+      "city1": "Goa",
+      "city2": "PUNE",
+      "passengers_to_city2": 13931,
+      "passengers_from_city2": 12810,
+      "total_two_way_passengers": 26741
+    },
+    {
+      "sno": 240,
+      "city1": "BIKANER",
+      "city2": "DELHI",
+      "passengers_to_city2": 12995,
+      "passengers_from_city2": 13743,
+      "total_two_way_passengers": 26738
+    },
+    {
+      "sno": 567,
+      "city1": "Itanagar",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 12287,
+      "passengers_from_city2": 14449,
+      "total_two_way_passengers": 26736
+    },
+    {
+      "sno": 461,
+      "city1": "DELHI",
+      "city2": "KANDLA",
+      "passengers_to_city2": 14150,
+      "passengers_from_city2": 12110,
+      "total_two_way_passengers": 26260
+    },
+    {
+      "sno": 5,
+      "city1": "AGARTALA",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 15146,
+      "passengers_from_city2": 10936,
+      "total_two_way_passengers": 26082
+    },
+    {
+      "sno": 417,
+      "city1": "DABOLIM",
+      "city2": "MYSORE",
+      "passengers_to_city2": 12581,
+      "passengers_from_city2": 13311,
+      "total_two_way_passengers": 25892
+    },
+    {
+      "sno": 460,
+      "city1": "DELHI",
+      "city2": "JORHAT",
+      "passengers_to_city2": 12634,
+      "passengers_from_city2": 12947,
+      "total_two_way_passengers": 25581
+    },
+    {
+      "sno": 507,
+      "city1": "DIBRUGARH",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 12669,
+      "passengers_from_city2": 12851,
+      "total_two_way_passengers": 25520
+    },
+    {
+      "sno": 515,
+      "city1": "DIMAPUR",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 13711,
+      "passengers_from_city2": 11648,
+      "total_two_way_passengers": 25359
+    },
+    {
+      "sno": 154,
+      "city1": "BENGALURU",
+      "city2": "GORAKHPUR",
+      "passengers_to_city2": 11738,
+      "passengers_from_city2": 13503,
+      "total_two_way_passengers": 25241
+    },
+    {
+      "sno": 44,
+      "city1": "AHMEDABAD",
+      "city2": "JAMMU",
+      "passengers_to_city2": 12798,
+      "passengers_from_city2": 12276,
+      "total_two_way_passengers": 25074
+    },
+    {
+      "sno": 547,
+      "city1": "GUWAHATI",
+      "city2": "JORHAT",
+      "passengers_to_city2": 11559,
+      "passengers_from_city2": 13301,
+      "total_two_way_passengers": 24860
+    },
+    {
+      "sno": 583,
+      "city1": "HYDERABAD",
+      "city2": "JHARSUGUDA",
+      "passengers_to_city2": 12190,
+      "passengers_from_city2": 11783,
+      "total_two_way_passengers": 23973
+    },
+    {
+      "sno": 676,
+      "city1": "KOLKATA",
+      "city2": "LILABARI",
+      "passengers_to_city2": 11344,
+      "passengers_from_city2": 12538,
+      "total_two_way_passengers": 23882
+    },
+    {
+      "sno": 236,
+      "city1": "BHUBANESWAR",
+      "city2": "RANCHI",
+      "passengers_to_city2": 11192,
+      "passengers_from_city2": 12634,
+      "total_two_way_passengers": 23826
+    },
+    {
+      "sno": 309,
+      "city1": "CHANDIGARH",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 12514,
+      "passengers_from_city2": 11157,
+      "total_two_way_passengers": 23671
+    },
+    {
+      "sno": 165,
+      "city1": "BENGALURU",
+      "city2": "JHARSUGUDA",
+      "passengers_to_city2": 11124,
+      "passengers_from_city2": 12472,
+      "total_two_way_passengers": 23596
+    },
+    {
+      "sno": 90,
+      "city1": "ALLAHABAD",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 11637,
+      "passengers_from_city2": 11673,
+      "total_two_way_passengers": 23310
+    },
+    {
+      "sno": 33,
+      "city1": "AHMEDABAD",
+      "city2": "COIMBATORE",
+      "passengers_to_city2": 12266,
+      "passengers_from_city2": 10560,
+      "total_two_way_passengers": 22826
+    },
+    {
+      "sno": 492,
+      "city1": "DELHI",
+      "city2": "TIRUCHIRAPALLY",
+      "passengers_to_city2": 12841,
+      "passengers_from_city2": 9901,
+      "total_two_way_passengers": 22742
+    },
+    {
+      "sno": 741,
+      "city1": "PUNE",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 11394,
+      "passengers_from_city2": 11234,
+      "total_two_way_passengers": 22628
+    },
+    {
+      "sno": 468,
+      "city1": "DELHI",
+      "city2": "Kushinagar",
+      "passengers_to_city2": 11342,
+      "passengers_from_city2": 11204,
+      "total_two_way_passengers": 22546
+    },
+    {
+      "sno": 307,
+      "city1": "CHANDIGARH",
+      "city2": "DHARAMSALA",
+      "passengers_to_city2": 10268,
+      "passengers_from_city2": 12275,
+      "total_two_way_passengers": 22543
+    },
+    {
+      "sno": 625,
+      "city1": "INDORE",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 11291,
+      "passengers_from_city2": 10706,
+      "total_two_way_passengers": 21997
+    },
+    {
+      "sno": 780,
+      "city1": "Goa",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 10295,
+      "passengers_from_city2": 10678,
+      "total_two_way_passengers": 20973
+    },
+    {
+      "sno": 781,
+      "city1": "Goa",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 10040,
+      "passengers_from_city2": 10880,
+      "total_two_way_passengers": 20920
+    },
+    {
+      "sno": 87,
+      "city1": "ALLAHABAD",
+      "city2": "GORAKHPUR",
+      "passengers_to_city2": 12057,
+      "passengers_from_city2": 8457,
+      "total_two_way_passengers": 20514
+    },
+    {
+      "sno": 327,
+      "city1": "CHENNAI",
+      "city2": "DehraDun",
+      "passengers_to_city2": 10368,
+      "passengers_from_city2": 10132,
+      "total_two_way_passengers": 20500
+    },
+    {
+      "sno": 152,
+      "city1": "BENGALURU",
+      "city2": "DIMAPUR",
+      "passengers_to_city2": 11740,
+      "passengers_from_city2": 8640,
+      "total_two_way_passengers": 20380
+    },
+    {
+      "sno": 24,
+      "city1": "AHMEDABAD",
+      "city2": "BELGAUM",
+      "passengers_to_city2": 10026,
+      "passengers_from_city2": 10323,
+      "total_two_way_passengers": 20349
+    },
+    {
+      "sno": 294,
+      "city1": "MUMBAI",
+      "city2": "SURAT",
+      "passengers_to_city2": 9932,
+      "passengers_from_city2": 10090,
+      "total_two_way_passengers": 20022
+    },
+    {
+      "sno": 562,
+      "city1": "GWALIOR",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 9708,
+      "passengers_from_city2": 9944,
+      "total_two_way_passengers": 19652
+    },
+    {
+      "sno": 372,
+      "city1": "KOCHI",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 9359,
+      "passengers_from_city2": 10226,
+      "total_two_way_passengers": 19585
+    },
+    {
+      "sno": 563,
+      "city1": "GWALIOR",
+      "city2": "INDORE",
+      "passengers_to_city2": 9201,
+      "passengers_from_city2": 9643,
+      "total_two_way_passengers": 18844
+    },
+    {
+      "sno": 367,
+      "city1": "CHENNAI",
+      "city2": "VADODARA",
+      "passengers_to_city2": 9258,
+      "passengers_from_city2": 9132,
+      "total_two_way_passengers": 18390
+    },
+    {
+      "sno": 80,
+      "city1": "ALLAHABAD",
+      "city2": "BHOPAL",
+      "passengers_to_city2": 8883,
+      "passengers_from_city2": 9440,
+      "total_two_way_passengers": 18323
+    },
+    {
+      "sno": 75,
+      "city1": "Kishangarh",
+      "city2": "DELHI",
+      "passengers_to_city2": 8711,
+      "passengers_from_city2": 8874,
+      "total_two_way_passengers": 17585
+    },
+    {
+      "sno": 554,
+      "city1": "GUWAHATI",
+      "city2": "RUPSI",
+      "passengers_to_city2": 8925,
+      "passengers_from_city2": 8493,
+      "total_two_way_passengers": 17418
+    },
+    {
+      "sno": 163,
+      "city1": "BENGALURU",
+      "city2": "JAMMU",
+      "passengers_to_city2": 9095,
+      "passengers_from_city2": 8261,
+      "total_two_way_passengers": 17356
+    },
+    {
+      "sno": 619,
+      "city1": "IMPHAL",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 8790,
+      "passengers_from_city2": 8339,
+      "total_two_way_passengers": 17129
+    },
+    {
+      "sno": 329,
+      "city1": "CHENNAI",
+      "city2": "DIBRUGARH",
+      "passengers_to_city2": 8749,
+      "passengers_from_city2": 8378,
+      "total_two_way_passengers": 17127
+    },
+    {
+      "sno": 102,
+      "city1": "AMRITSAR",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 8341,
+      "passengers_from_city2": 8566,
+      "total_two_way_passengers": 16907
+    },
+    {
+      "sno": 558,
+      "city1": "GUWAHATI",
+      "city2": "TEZU",
+      "passengers_to_city2": 7798,
+      "passengers_from_city2": 9086,
+      "total_two_way_passengers": 16884
+    },
+    {
+      "sno": 159,
+      "city1": "BENGALURU",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 9179,
+      "passengers_from_city2": 7596,
+      "total_two_way_passengers": 16775
+    },
+    {
+      "sno": 499,
+      "city1": "Deoghar",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 8667,
+      "passengers_from_city2": 8050,
+      "total_two_way_passengers": 16717
+    },
+    {
+      "sno": 713,
+      "city1": "LUCKNOW",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 7641,
+      "passengers_from_city2": 9021,
+      "total_two_way_passengers": 16662
+    },
+    {
+      "sno": 566,
+      "city1": "GWALIOR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 8375,
+      "passengers_from_city2": 7601,
+      "total_two_way_passengers": 15976
+    },
+    {
+      "sno": 438,
+      "city1": "DehraDun",
+      "city2": "VARANASI",
+      "passengers_to_city2": 7944,
+      "passengers_from_city2": 7783,
+      "total_two_way_passengers": 15727
+    },
+    {
+      "sno": 744,
+      "city1": "PUNE",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 7820,
+      "passengers_from_city2": 7878,
+      "total_two_way_passengers": 15698
+    },
+    {
+      "sno": 263,
+      "city1": "MUMBAI",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 7479,
+      "passengers_from_city2": 8023,
+      "total_two_way_passengers": 15502
+    },
+    {
+      "sno": 76,
+      "city1": "Kishangarh",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 7510,
+      "passengers_from_city2": 7982,
+      "total_two_way_passengers": 15492
+    },
+    {
+      "sno": 172,
+      "city1": "BENGALURU",
+      "city2": "KOLHAPUR",
+      "passengers_to_city2": 7908,
+      "passengers_from_city2": 7470,
+      "total_two_way_passengers": 15378
+    },
+    {
+      "sno": 311,
+      "city1": "CHANDIGARH",
+      "city2": "INDORE",
+      "passengers_to_city2": 7292,
+      "passengers_from_city2": 7937,
+      "total_two_way_passengers": 15229
+    },
+    {
+      "sno": 539,
+      "city1": "GORAKHPUR",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 8592,
+      "passengers_from_city2": 6598,
+      "total_two_way_passengers": 15190
+    },
+    {
+      "sno": 46,
+      "city1": "AHMEDABAD",
+      "city2": "KOLHAPUR",
+      "passengers_to_city2": 8174,
+      "passengers_from_city2": 6895,
+      "total_two_way_passengers": 15069
+    },
+    {
+      "sno": 12,
+      "city1": "AGARTALA",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 8123,
+      "passengers_from_city2": 6945,
+      "total_two_way_passengers": 15068
+    },
+    {
+      "sno": 17,
+      "city1": "AGRA",
+      "city2": "AHMEDABAD",
+      "passengers_to_city2": 7457,
+      "passengers_from_city2": 7460,
+      "total_two_way_passengers": 14917
+    },
+    {
+      "sno": 285,
+      "city1": "MUMBAI",
+      "city2": "PORBANDAR",
+      "passengers_to_city2": 8113,
+      "passengers_from_city2": 6715,
+      "total_two_way_passengers": 14828
+    },
+    {
+      "sno": 209,
+      "city1": "BHOPAL",
+      "city2": "KOCHI",
+      "passengers_to_city2": 7139,
+      "passengers_from_city2": 7682,
+      "total_two_way_passengers": 14821
+    },
+    {
+      "sno": 701,
+      "city1": "KURNOOL",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 7349,
+      "passengers_from_city2": 7359,
+      "total_two_way_passengers": 14708
+    },
+    {
+      "sno": 755,
+      "city1": "SHIRDI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 7265,
+      "passengers_from_city2": 7346,
+      "total_two_way_passengers": 14611
+    },
+    {
+      "sno": 28,
+      "city1": "AHMEDABAD",
+      "city2": "BHUJ",
+      "passengers_to_city2": 7316,
+      "passengers_from_city2": 7235,
+      "total_two_way_passengers": 14551
+    },
+    {
+      "sno": 70,
+      "city1": "AIZAWL",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 7345,
+      "passengers_from_city2": 7147,
+      "total_two_way_passengers": 14492
+    },
+    {
+      "sno": 50,
+      "city1": "AHMEDABAD",
+      "city2": "NASIK",
+      "passengers_to_city2": 7308,
+      "passengers_from_city2": 6946,
+      "total_two_way_passengers": 14254
+    },
+    {
+      "sno": 715,
+      "city1": "MADURAI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 7460,
+      "passengers_from_city2": 6591,
+      "total_two_way_passengers": 14051
+    },
+    {
+      "sno": 167,
+      "city1": "BENGALURU",
+      "city2": "JORHAT",
+      "passengers_to_city2": 7311,
+      "passengers_from_city2": 6724,
+      "total_two_way_passengers": 14035
+    },
+    {
+      "sno": 232,
+      "city1": "BHUBANESWAR",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 7994,
+      "passengers_from_city2": 5960,
+      "total_two_way_passengers": 13954
+    },
+    {
+      "sno": 531,
+      "city1": "GHAZIABAD",
+      "city2": "HUBLI",
+      "passengers_to_city2": 6919,
+      "passengers_from_city2": 6741,
+      "total_two_way_passengers": 13660
+    },
+    {
+      "sno": 655,
+      "city1": "JAIPUR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 6981,
+      "passengers_from_city2": 6449,
+      "total_two_way_passengers": 13430
+    },
+    {
+      "sno": 695,
+      "city1": "KOLKATA",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 6910,
+      "passengers_from_city2": 6434,
+      "total_two_way_passengers": 13344
+    },
+    {
+      "sno": 2,
+      "city1": "AGARTALA",
+      "city2": "AIZAWL",
+      "passengers_to_city2": 6949,
+      "passengers_from_city2": 6160,
+      "total_two_way_passengers": 13109
+    },
+    {
+      "sno": 219,
+      "city1": "BHUBANESWAR",
+      "city2": "CHANDIGARH",
+      "passengers_to_city2": 6763,
+      "passengers_from_city2": 6262,
+      "total_two_way_passengers": 13025
+    },
+    {
+      "sno": 201,
+      "city1": "BENGALURU",
+      "city2": "VIDYANAGAR",
+      "passengers_to_city2": 6311,
+      "passengers_from_city2": 6701,
+      "total_two_way_passengers": 13012
+    },
+    {
+      "sno": 435,
+      "city1": "DehraDun",
+      "city2": "PANTNAGAR",
+      "passengers_to_city2": 6360,
+      "passengers_from_city2": 6582,
+      "total_two_way_passengers": 12942
+    },
+    {
+      "sno": 380,
+      "city1": "KOCHI",
+      "city2": "MYSORE",
+      "passengers_to_city2": 6533,
+      "passengers_from_city2": 6305,
+      "total_two_way_passengers": 12838
+    },
+    {
+      "sno": 750,
+      "city1": "RAJAHMUNDRY",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 6777,
+      "passengers_from_city2": 5866,
+      "total_two_way_passengers": 12643
+    },
+    {
+      "sno": 727,
+      "city1": "NASIK",
+      "city2": "PUNE",
+      "passengers_to_city2": 6161,
+      "passengers_from_city2": 6095,
+      "total_two_way_passengers": 12256
+    },
+    {
+      "sno": 620,
+      "city1": "IMPHAL",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 6120,
+      "passengers_from_city2": 5813,
+      "total_two_way_passengers": 11933
+    },
+    {
+      "sno": 467,
+      "city1": "DELHI",
+      "city2": "KULLU",
+      "passengers_to_city2": 8099,
+      "passengers_from_city2": 3774,
+      "total_two_way_passengers": 11873
+    },
+    {
+      "sno": 21,
+      "city1": "AGRA",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 5605,
+      "passengers_from_city2": 6197,
+      "total_two_way_passengers": 11802
+    },
+    {
+      "sno": 708,
+      "city1": "LUCKNOW",
+      "city2": "PANTNAGAR",
+      "passengers_to_city2": 6088,
+      "passengers_from_city2": 5668,
+      "total_two_way_passengers": 11756
+    },
+    {
+      "sno": 572,
+      "city1": "HUBLI",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 6425,
+      "passengers_from_city2": 5249,
+      "total_two_way_passengers": 11674
+    },
+    {
+      "sno": 215,
+      "city1": "BHOPAL",
+      "city2": "PUNE",
+      "passengers_to_city2": 6120,
+      "passengers_from_city2": 5394,
+      "total_two_way_passengers": 11514
+    },
+    {
+      "sno": 39,
+      "city1": "AHMEDABAD",
+      "city2": "GWALIOR",
+      "passengers_to_city2": 5599,
+      "passengers_from_city2": 5847,
+      "total_two_way_passengers": 11446
+    },
+    {
+      "sno": 582,
+      "city1": "HYDERABAD",
+      "city2": "JAMNAGAR",
+      "passengers_to_city2": 5963,
+      "passengers_from_city2": 5467,
+      "total_two_way_passengers": 11430
+    },
+    {
+      "sno": 360,
+      "city1": "CHENNAI",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 5941,
+      "passengers_from_city2": 5402,
+      "total_two_way_passengers": 11343
+    },
+    {
+      "sno": 402,
+      "city1": "COIMBATORE",
+      "city2": "SURAT",
+      "passengers_to_city2": 6028,
+      "passengers_from_city2": 5297,
+      "total_two_way_passengers": 11325
+    },
+    {
+      "sno": 175,
+      "city1": "BENGALURU",
+      "city2": "KURNOOL",
+      "passengers_to_city2": 4879,
+      "passengers_from_city2": 6440,
+      "total_two_way_passengers": 11319
+    },
+    {
+      "sno": 648,
+      "city1": "JAIPUR",
+      "city2": "PATNA",
+      "passengers_to_city2": 5440,
+      "passengers_from_city2": 5863,
+      "total_two_way_passengers": 11303
+    },
+    {
+      "sno": 694,
+      "city1": "KOLKATA",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 6112,
+      "passengers_from_city2": 5182,
+      "total_two_way_passengers": 11294
+    },
+    {
+      "sno": 394,
+      "city1": "COIMBATORE",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 6542,
+      "passengers_from_city2": 4694,
+      "total_two_way_passengers": 11236
+    },
+    {
+      "sno": 164,
+      "city1": "BENGALURU",
+      "city2": "JAMNAGAR",
+      "passengers_to_city2": 5555,
+      "passengers_from_city2": 5468,
+      "total_two_way_passengers": 11023
+    },
+    {
+      "sno": 345,
+      "city1": "CHENNAI",
+      "city2": "KURNOOL",
+      "passengers_to_city2": 5459,
+      "passengers_from_city2": 5528,
+      "total_two_way_passengers": 10987
+    },
+    {
+      "sno": 137,
+      "city1": "BELGAUM",
+      "city2": "PUNE",
+      "passengers_to_city2": 5502,
+      "passengers_from_city2": 5417,
+      "total_two_way_passengers": 10919
+    },
+    {
+      "sno": 551,
+      "city1": "GUWAHATI",
+      "city2": "PASIGHAT",
+      "passengers_to_city2": 5464,
+      "passengers_from_city2": 5320,
+      "total_two_way_passengers": 10784
+    },
+    {
+      "sno": 475,
+      "city1": "DELHI",
+      "city2": "PAKYONG",
+      "passengers_to_city2": 5760,
+      "passengers_from_city2": 4914,
+      "total_two_way_passengers": 10674
+    },
+    {
+      "sno": 72,
+      "city1": "AIZAWL",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 5471,
+      "passengers_from_city2": 5200,
+      "total_two_way_passengers": 10671
+    },
+    {
+      "sno": 82,
+      "city1": "ALLAHABAD",
+      "city2": "BILASPUR",
+      "passengers_to_city2": 5564,
+      "passengers_from_city2": 5057,
+      "total_two_way_passengers": 10621
+    },
+    {
+      "sno": 614,
+      "city1": "HYDERABAD",
+      "city2": "VIDYANAGAR",
+      "passengers_to_city2": 5290,
+      "passengers_from_city2": 5326,
+      "total_two_way_passengers": 10616
+    },
+    {
+      "sno": 667,
+      "city1": "Cuddapah",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 5147,
+      "passengers_from_city2": 5439,
+      "total_two_way_passengers": 10586
+    },
+    {
+      "sno": 134,
+      "city1": "BELGAUM",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 5243,
+      "passengers_from_city2": 4904,
+      "total_two_way_passengers": 10147
+    },
+    {
+      "sno": 38,
+      "city1": "AHMEDABAD",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 5082,
+      "passengers_from_city2": 4927,
+      "total_two_way_passengers": 10009
+    },
+    {
+      "sno": 663,
+      "city1": "JHARSUGUDA",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 5684,
+      "passengers_from_city2": 4223,
+      "total_two_way_passengers": 9907
+    },
+    {
+      "sno": 560,
+      "city1": "GUWAHATI",
+      "city2": "VARANASI",
+      "passengers_to_city2": 4901,
+      "passengers_from_city2": 5003,
+      "total_two_way_passengers": 9904
+    },
+    {
+      "sno": 142,
+      "city1": "BENGALURU",
+      "city2": "BIDAR",
+      "passengers_to_city2": 4701,
+      "passengers_from_city2": 5189,
+      "total_two_way_passengers": 9890
+    },
+    {
+      "sno": 208,
+      "city1": "BHOPAL",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 4511,
+      "passengers_from_city2": 5362,
+      "total_two_way_passengers": 9873
+    },
+    {
+      "sno": 745,
+      "city1": "RAIPUR",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 4889,
+      "passengers_from_city2": 4914,
+      "total_two_way_passengers": 9803
+    },
+    {
+      "sno": 641,
+      "city1": "JAIPUR",
+      "city2": "JAISALMER",
+      "passengers_to_city2": 5064,
+      "passengers_from_city2": 4655,
+      "total_two_way_passengers": 9719
+    },
+    {
+      "sno": 65,
+      "city1": "AHMEDABAD",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 5537,
+      "passengers_from_city2": 3986,
+      "total_two_way_passengers": 9523
+    },
+    {
+      "sno": 241,
+      "city1": "BILASPUR",
+      "city2": "DELHI",
+      "passengers_to_city2": 4705,
+      "passengers_from_city2": 4761,
+      "total_two_way_passengers": 9466
+    },
+    {
+      "sno": 339,
+      "city1": "CHENNAI",
+      "city2": "Cuddapah",
+      "passengers_to_city2": 4115,
+      "passengers_from_city2": 5333,
+      "total_two_way_passengers": 9448
+    },
+    {
+      "sno": 252,
+      "city1": "MUMBAI",
+      "city2": "DIBRUGARH",
+      "passengers_to_city2": 5443,
+      "passengers_from_city2": 3918,
+      "total_two_way_passengers": 9361
+    },
+    {
+      "sno": 138,
+      "city1": "BELGAUM",
+      "city2": "SURAT",
+      "passengers_to_city2": 4823,
+      "passengers_from_city2": 4474,
+      "total_two_way_passengers": 9297
+    },
+    {
+      "sno": 392,
+      "city1": "COIMBATORE",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 5887,
+      "passengers_from_city2": 3347,
+      "total_two_way_passengers": 9234
+    },
+    {
+      "sno": 78,
+      "city1": "Kishangarh",
+      "city2": "SURAT",
+      "passengers_to_city2": 4372,
+      "passengers_from_city2": 4860,
+      "total_two_way_passengers": 9232
+    },
+    {
+      "sno": 534,
+      "city1": "Gondia",
+      "city2": "INDORE",
+      "passengers_to_city2": 4636,
+      "passengers_from_city2": 4415,
+      "total_two_way_passengers": 9051
+    },
+    {
+      "sno": 243,
+      "city1": "BILASPUR",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 3988,
+      "passengers_from_city2": 4949,
+      "total_two_way_passengers": 8937
+    },
+    {
+      "sno": 62,
+      "city1": "AHMEDABAD",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 4390,
+      "passengers_from_city2": 4483,
+      "total_two_way_passengers": 8873
+    },
+    {
+      "sno": 488,
+      "city1": "DELHI",
+      "city2": "SIMLA",
+      "passengers_to_city2": 5262,
+      "passengers_from_city2": 3577,
+      "total_two_way_passengers": 8839
+    },
+    {
+      "sno": 754,
+      "city1": "SHILLONG",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 3845,
+      "passengers_from_city2": 4936,
+      "total_two_way_passengers": 8781
+    },
+    {
+      "sno": 133,
+      "city1": "BELGAUM",
+      "city2": "INDORE",
+      "passengers_to_city2": 4469,
+      "passengers_from_city2": 4300,
+      "total_two_way_passengers": 8769
+    },
+    {
+      "sno": 502,
+      "city1": "DHARAMSALA",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 3483,
+      "passengers_from_city2": 5234,
+      "total_two_way_passengers": 8717
+    },
+    {
+      "sno": 1,
+      "city1": "AGARTALA",
+      "city2": "AHMEDABAD",
+      "passengers_to_city2": 3822,
+      "passengers_from_city2": 4631,
+      "total_two_way_passengers": 8453
+    },
+    {
+      "sno": 74,
+      "city1": "Kishangarh",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 4100,
+      "passengers_from_city2": 4282,
+      "total_two_way_passengers": 8382
+    },
+    {
+      "sno": 179,
+      "city1": "BENGALURU",
+      "city2": "MYSORE",
+      "passengers_to_city2": 2883,
+      "passengers_from_city2": 5460,
+      "total_two_way_passengers": 8343
+    },
+    {
+      "sno": 668,
+      "city1": "KALABURAGI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 4753,
+      "passengers_from_city2": 3429,
+      "total_two_way_passengers": 8182
+    },
+    {
+      "sno": 275,
+      "city1": "MUMBAI",
+      "city2": "KESHOD",
+      "passengers_to_city2": 4017,
+      "passengers_from_city2": 3823,
+      "total_two_way_passengers": 7840
+    },
+    {
+      "sno": 748,
+      "city1": "RAJAHMUNDRY",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 4250,
+      "passengers_from_city2": 3490,
+      "total_two_way_passengers": 7740
+    },
+    {
+      "sno": 326,
+      "city1": "CHENNAI",
+      "city2": "DARBHANGA",
+      "passengers_to_city2": 4959,
+      "passengers_from_city2": 2768,
+      "total_two_way_passengers": 7727
+    },
+    {
+      "sno": 770,
+      "city1": "Goa",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 4116,
+      "passengers_from_city2": 3585,
+      "total_two_way_passengers": 7701
+    },
+    {
+      "sno": 678,
+      "city1": "KOLKATA",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 3635,
+      "passengers_from_city2": 3978,
+      "total_two_way_passengers": 7613
+    },
+    {
+      "sno": 621,
+      "city1": "IMPHAL",
+      "city2": "TEZU",
+      "passengers_to_city2": 4154,
+      "passengers_from_city2": 3422,
+      "total_two_way_passengers": 7576
+    },
+    {
+      "sno": 139,
+      "city1": "BELGAUM",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 4019,
+      "passengers_from_city2": 3551,
+      "total_two_way_passengers": 7570
+    },
+    {
+      "sno": 576,
+      "city1": "HYDERABAD",
+      "city2": "IMPHAL",
+      "passengers_to_city2": 3541,
+      "passengers_from_city2": 3939,
+      "total_two_way_passengers": 7480
+    },
+    {
+      "sno": 454,
+      "city1": "DELHI",
+      "city2": "JAGDALPUR",
+      "passengers_to_city2": 3013,
+      "passengers_from_city2": 4428,
+      "total_two_way_passengers": 7441
+    },
+    {
+      "sno": 429,
+      "city1": "DehraDun",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 4372,
+      "passengers_from_city2": 2909,
+      "total_two_way_passengers": 7281
+    },
+    {
+      "sno": 680,
+      "city1": "KOLKATA",
+      "city2": "PAKYONG",
+      "passengers_to_city2": 3853,
+      "passengers_from_city2": 3402,
+      "total_two_way_passengers": 7255
+    },
+    {
+      "sno": 237,
+      "city1": "BHUBANESWAR",
+      "city2": "ROURKELA",
+      "passengers_to_city2": 3495,
+      "passengers_from_city2": 3647,
+      "total_two_way_passengers": 7142
+    },
+    {
+      "sno": 533,
+      "city1": "Gondia",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 3588,
+      "passengers_from_city2": 3544,
+      "total_two_way_passengers": 7132
+    },
+    {
+      "sno": 77,
+      "city1": "Kishangarh",
+      "city2": "INDORE",
+      "passengers_to_city2": 3380,
+      "passengers_from_city2": 3531,
+      "total_two_way_passengers": 6911
+    },
+    {
+      "sno": 739,
+      "city1": "PUNE",
+      "city2": "SURAT",
+      "passengers_to_city2": 3345,
+      "passengers_from_city2": 3508,
+      "total_two_way_passengers": 6853
+    },
+    {
+      "sno": 404,
+      "city1": "COIMBATORE",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 2873,
+      "passengers_from_city2": 3918,
+      "total_two_way_passengers": 6791
+    },
+    {
+      "sno": 168,
+      "city1": "BENGALURU",
+      "city2": "Cuddapah",
+      "passengers_to_city2": 2690,
+      "passengers_from_city2": 4025,
+      "total_two_way_passengers": 6715
+    },
+    {
+      "sno": 532,
+      "city1": "GHAZIABAD",
+      "city2": "KALABURAGI",
+      "passengers_to_city2": 3269,
+      "passengers_from_city2": 3334,
+      "total_two_way_passengers": 6603
+    },
+    {
+      "sno": 477,
+      "city1": "DELHI",
+      "city2": "PATHANKOT",
+      "passengers_to_city2": 3186,
+      "passengers_from_city2": 3302,
+      "total_two_way_passengers": 6488
+    },
+    {
+      "sno": 43,
+      "city1": "AHMEDABAD",
+      "city2": "JAISALMER",
+      "passengers_to_city2": 2840,
+      "passengers_from_city2": 3584,
+      "total_two_way_passengers": 6424
+    },
+    {
+      "sno": 565,
+      "city1": "GWALIOR",
+      "city2": "JAMMU",
+      "passengers_to_city2": 3354,
+      "passengers_from_city2": 2991,
+      "total_two_way_passengers": 6345
+    },
+    {
+      "sno": 518,
+      "city1": "DIMAPUR",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 3021,
+      "passengers_from_city2": 3156,
+      "total_two_way_passengers": 6177
+    },
+    {
+      "sno": 666,
+      "city1": "Cuddapah",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 3162,
+      "passengers_from_city2": 2978,
+      "total_two_way_passengers": 6140
+    },
+    {
+      "sno": 581,
+      "city1": "HYDERABAD",
+      "city2": "JAMMU",
+      "passengers_to_city2": 5312,
+      "passengers_from_city2": 825,
+      "total_two_way_passengers": 6137
+    },
+    {
+      "sno": 242,
+      "city1": "BILASPUR",
+      "city2": "INDORE",
+      "passengers_to_city2": 3368,
+      "passengers_from_city2": 2473,
+      "total_two_way_passengers": 5841
+    },
+    {
+      "sno": 135,
+      "city1": "BELGAUM",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 2856,
+      "passengers_from_city2": 2956,
+      "total_two_way_passengers": 5812
+    },
+    {
+      "sno": 573,
+      "city1": "HUBLI",
+      "city2": "MYSORE",
+      "passengers_to_city2": 3327,
+      "passengers_from_city2": 2483,
+      "total_two_way_passengers": 5810
+    },
+    {
+      "sno": 315,
+      "city1": "CHANDIGARH",
+      "city2": "KULLU",
+      "passengers_to_city2": 4057,
+      "passengers_from_city2": 1674,
+      "total_two_way_passengers": 5731
+    },
+    {
+      "sno": 511,
+      "city1": "DIBRUGARH",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 2284,
+      "passengers_from_city2": 3446,
+      "total_two_way_passengers": 5730
+    },
+    {
+      "sno": 541,
+      "city1": "GORAKHPUR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 3679,
+      "passengers_from_city2": 2045,
+      "total_two_way_passengers": 5724
+    },
+    {
+      "sno": 19,
+      "city1": "AGRA",
+      "city2": "BHOPAL",
+      "passengers_to_city2": 2395,
+      "passengers_from_city2": 3243,
+      "total_two_way_passengers": 5638
+    },
+    {
+      "sno": 136,
+      "city1": "BELGAUM",
+      "city2": "NASIK",
+      "passengers_to_city2": 2900,
+      "passengers_from_city2": 2712,
+      "total_two_way_passengers": 5612
+    },
+    {
+      "sno": 406,
+      "city1": "COIMBATORE",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 1262,
+      "passengers_from_city2": 4134,
+      "total_two_way_passengers": 5396
+    },
+    {
+      "sno": 276,
+      "city1": "MUMBAI",
+      "city2": "KOLHAPUR",
+      "passengers_to_city2": 2780,
+      "passengers_from_city2": 2560,
+      "total_two_way_passengers": 5340
+    },
+    {
+      "sno": 747,
+      "city1": "RAIPUR",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 5183,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 5183
+    },
+    {
+      "sno": 217,
+      "city1": "BHOPAL",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 2541,
+      "passengers_from_city2": 2641,
+      "total_two_way_passengers": 5182
+    },
+    {
+      "sno": 96,
+      "city1": "AMRITSAR",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 2173,
+      "passengers_from_city2": 2980,
+      "total_two_way_passengers": 5153
+    },
+    {
+      "sno": 61,
+      "city1": "AHMEDABAD",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 2803,
+      "passengers_from_city2": 2326,
+      "total_two_way_passengers": 5129
+    },
+    {
+      "sno": 191,
+      "city1": "BENGALURU",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 2558,
+      "passengers_from_city2": 2288,
+      "total_two_way_passengers": 4846
+    },
+    {
+      "sno": 734,
+      "city1": "PATNA",
+      "city2": "VARANASI",
+      "passengers_to_city2": 2350,
+      "passengers_from_city2": 2459,
+      "total_two_way_passengers": 4809
+    },
+    {
+      "sno": 66,
+      "city1": "AIZAWL",
+      "city2": "MUMBAI",
+      "passengers_to_city2": 2580,
+      "passengers_from_city2": 2168,
+      "total_two_way_passengers": 4748
+    },
+    {
+      "sno": 410,
+      "city1": "DABOLIM",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 4711,
+      "passengers_from_city2": 4,
+      "total_two_way_passengers": 4715
+    },
+    {
+      "sno": 385,
+      "city1": "KOCHI",
+      "city2": "RANCHI",
+      "passengers_to_city2": 2658,
+      "passengers_from_city2": 1974,
+      "total_two_way_passengers": 4632
+    },
+    {
+      "sno": 37,
+      "city1": "AHMEDABAD",
+      "city2": "DURGAPUR",
+      "passengers_to_city2": 1979,
+      "passengers_from_city2": 2591,
+      "total_two_way_passengers": 4570
+    },
+    {
+      "sno": 654,
+      "city1": "JAIPUR",
+      "city2": "VADODARA",
+      "passengers_to_city2": 2371,
+      "passengers_from_city2": 2100,
+      "total_two_way_passengers": 4471
+    },
+    {
+      "sno": 479,
+      "city1": "DELHI",
+      "city2": "PORBANDAR",
+      "passengers_to_city2": 2372,
+      "passengers_from_city2": 2073,
+      "total_two_way_passengers": 4445
+    },
+    {
+      "sno": 100,
+      "city1": "AMRITSAR",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 1913,
+      "passengers_from_city2": 2499,
+      "total_two_way_passengers": 4412
+    },
+    {
+      "sno": 256,
+      "city1": "MUMBAI",
+      "city2": "GAYA",
+      "passengers_to_city2": 2173,
+      "passengers_from_city2": 2030,
+      "total_two_way_passengers": 4203
+    },
+    {
+      "sno": 101,
+      "city1": "AMRITSAR",
+      "city2": "HYDERABAD",
+      "passengers_to_city2": 2365,
+      "passengers_from_city2": 1806,
+      "total_two_way_passengers": 4171
+    },
+    {
+      "sno": 542,
+      "city1": "GUWAHATI",
+      "city2": "Itanagar",
+      "passengers_to_city2": 1673,
+      "passengers_from_city2": 2493,
+      "total_two_way_passengers": 4166
+    },
+    {
+      "sno": 659,
+      "city1": "JAMMU",
+      "city2": "VARANASI",
+      "passengers_to_city2": 1959,
+      "passengers_from_city2": 2067,
+      "total_two_way_passengers": 4026
+    },
+    {
+      "sno": 382,
+      "city1": "KOCHI",
+      "city2": "PATNA",
+      "passengers_to_city2": 2217,
+      "passengers_from_city2": 1567,
+      "total_two_way_passengers": 3784
+    },
+    {
+      "sno": 642,
+      "city1": "JAIPUR",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 1682,
+      "passengers_from_city2": 2102,
+      "total_two_way_passengers": 3784
+    },
+    {
+      "sno": 253,
+      "city1": "MUMBAI",
+      "city2": "DIMAPUR",
+      "passengers_to_city2": 2093,
+      "passengers_from_city2": 1566,
+      "total_two_way_passengers": 3659
+    },
+    {
+      "sno": 521,
+      "city1": "DURGAPUR",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 1795,
+      "passengers_from_city2": 1816,
+      "total_two_way_passengers": 3611
+    },
+    {
+      "sno": 396,
+      "city1": "COIMBATORE",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 1694,
+      "passengers_from_city2": 1781,
+      "total_two_way_passengers": 3475
+    },
+    {
+      "sno": 716,
+      "city1": "MADURAI",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 1868,
+      "passengers_from_city2": 1553,
+      "total_two_way_passengers": 3421
+    },
+    {
+      "sno": 379,
+      "city1": "KOCHI",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 1663,
+      "passengers_from_city2": 1368,
+      "total_two_way_passengers": 3031
+    },
+    {
+      "sno": 546,
+      "city1": "GUWAHATI",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 1296,
+      "passengers_from_city2": 1705,
+      "total_two_way_passengers": 3001
+    },
+    {
+      "sno": 537,
+      "city1": "GORAKHPUR",
+      "city2": "KANPUR",
+      "passengers_to_city2": 1455,
+      "passengers_from_city2": 1308,
+      "total_two_way_passengers": 2763
+    },
+    {
+      "sno": 637,
+      "city1": "JABALPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 1451,
+      "passengers_from_city2": 1295,
+      "total_two_way_passengers": 2746
+    },
+    {
+      "sno": 763,
+      "city1": "VARANASI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 1638,
+      "passengers_from_city2": 1101,
+      "total_two_way_passengers": 2739
+    },
+    {
+      "sno": 504,
+      "city1": "DIBRUGARH",
+      "city2": "DIMAPUR",
+      "passengers_to_city2": 1650,
+      "passengers_from_city2": 1081,
+      "total_two_way_passengers": 2731
+    },
+    {
+      "sno": 384,
+      "city1": "KOCHI",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 1333,
+      "passengers_from_city2": 1236,
+      "total_two_way_passengers": 2569
+    },
+    {
+      "sno": 549,
+      "city1": "GUWAHATI",
+      "city2": "LILABARI",
+      "passengers_to_city2": 1247,
+      "passengers_from_city2": 1322,
+      "total_two_way_passengers": 2569
+    },
+    {
+      "sno": 351,
+      "city1": "CHENNAI",
+      "city2": "NASIK",
+      "passengers_to_city2": 1205,
+      "passengers_from_city2": 1344,
+      "total_two_way_passengers": 2549
+    },
+    {
+      "sno": 555,
+      "city1": "GUWAHATI",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 1414,
+      "passengers_from_city2": 1114,
+      "total_two_way_passengers": 2528
+    },
+    {
+      "sno": 714,
+      "city1": "LUCKNOW",
+      "city2": "VARANASI",
+      "passengers_to_city2": 936,
+      "passengers_from_city2": 1562,
+      "total_two_way_passengers": 2498
+    },
+    {
+      "sno": 398,
+      "city1": "COIMBATORE",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 494,
+      "passengers_from_city2": 1976,
+      "total_two_way_passengers": 2470
+    },
+    {
+      "sno": 387,
+      "city1": "KOCHI",
+      "city2": "VARANASI",
+      "passengers_to_city2": 972,
+      "passengers_from_city2": 1452,
+      "total_two_way_passengers": 2424
+    },
+    {
+      "sno": 303,
+      "city1": "CHANDIGARH",
+      "city2": "KOCHI",
+      "passengers_to_city2": 1024,
+      "passengers_from_city2": 1285,
+      "total_two_way_passengers": 2309
+    },
+    {
+      "sno": 557,
+      "city1": "GUWAHATI",
+      "city2": "TEZPUR",
+      "passengers_to_city2": 1312,
+      "passengers_from_city2": 964,
+      "total_two_way_passengers": 2276
+    },
+    {
+      "sno": 58,
+      "city1": "AHMEDABAD",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 1293,
+      "passengers_from_city2": 969,
+      "total_two_way_passengers": 2262
+    },
+    {
+      "sno": 336,
+      "city1": "CHENNAI",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 854,
+      "passengers_from_city2": 1344,
+      "total_two_way_passengers": 2198
+    },
+    {
+      "sno": 229,
+      "city1": "BHUBANESWAR",
+      "city2": "JEYPORE",
+      "passengers_to_city2": 1059,
+      "passengers_from_city2": 1081,
+      "total_two_way_passengers": 2140
+    },
+    {
+      "sno": 574,
+      "city1": "HUBLI",
+      "city2": "PUNE",
+      "passengers_to_city2": 1306,
+      "passengers_from_city2": 810,
+      "total_two_way_passengers": 2116
+    },
+    {
+      "sno": 305,
+      "city1": "CHANDIGARH",
+      "city2": "DehraDun",
+      "passengers_to_city2": 203,
+      "passengers_from_city2": 1877,
+      "total_two_way_passengers": 2080
+    },
+    {
+      "sno": 752,
+      "city1": "RANCHI",
+      "city2": "VARANASI",
+      "passengers_to_city2": 1754,
+      "passengers_from_city2": 241,
+      "total_two_way_passengers": 1995
+    },
+    {
+      "sno": 270,
+      "city1": "MUMBAI",
+      "city2": "JHARSUGUDA",
+      "passengers_to_city2": 977,
+      "passengers_from_city2": 874,
+      "total_two_way_passengers": 1851
+    },
+    {
+      "sno": 693,
+      "city1": "KOLKATA",
+      "city2": "TEZPUR",
+      "passengers_to_city2": 52,
+      "passengers_from_city2": 1797,
+      "total_two_way_passengers": 1849
+    },
+    {
+      "sno": 775,
+      "city1": "Goa",
+      "city2": "NASIK",
+      "passengers_to_city2": 863,
+      "passengers_from_city2": 941,
+      "total_two_way_passengers": 1804
+    },
+    {
+      "sno": 485,
+      "city1": "DELHI",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 1044,
+      "passengers_from_city2": 746,
+      "total_two_way_passengers": 1790
+    },
+    {
+      "sno": 291,
+      "city1": "MUMBAI",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 528,
+      "passengers_from_city2": 1247,
+      "total_two_way_passengers": 1775
+    },
+    {
+      "sno": 661,
+      "city1": "JEYPORE",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 940,
+      "passengers_from_city2": 816,
+      "total_two_way_passengers": 1756
+    },
+    {
+      "sno": 722,
+      "city1": "NAGPUR",
+      "city2": "NASIK",
+      "passengers_to_city2": 865,
+      "passengers_from_city2": 846,
+      "total_two_way_passengers": 1711
+    },
+    {
+      "sno": 766,
+      "city1": "Goa",
+      "city2": "AMRITSAR",
+      "passengers_to_city2": 789,
+      "passengers_from_city2": 779,
+      "total_two_way_passengers": 1568
+    },
+    {
+      "sno": 414,
+      "city1": "DABOLIM",
+      "city2": "KANNUR",
+      "passengers_to_city2": 707,
+      "passengers_from_city2": 809,
+      "total_two_way_passengers": 1516
+    },
+    {
+      "sno": 260,
+      "city1": "MUMBAI",
+      "city2": "Itanagar",
+      "passengers_to_city2": 741,
+      "passengers_from_city2": 697,
+      "total_two_way_passengers": 1438
+    },
+    {
+      "sno": 103,
+      "city1": "AMRITSAR",
+      "city2": "JAMMU",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 1394,
+      "total_two_way_passengers": 1394
+    },
+    {
+      "sno": 588,
+      "city1": "HYDERABAD",
+      "city2": "KANPUR",
+      "passengers_to_city2": 718,
+      "passengers_from_city2": 653,
+      "total_two_way_passengers": 1371
+    },
+    {
+      "sno": 13,
+      "city1": "AGARTALA",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 671,
+      "passengers_from_city2": 695,
+      "total_two_way_passengers": 1366
+    },
+    {
+      "sno": 287,
+      "city1": "MUMBAI",
+      "city2": "PUNE",
+      "passengers_to_city2": 878,
+      "passengers_from_city2": 476,
+      "total_two_way_passengers": 1354
+    },
+    {
+      "sno": 669,
+      "city1": "KANNUR",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 132,
+      "passengers_from_city2": 1207,
+      "total_two_way_passengers": 1339
+    },
+    {
+      "sno": 656,
+      "city1": "JAMMU",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 381,
+      "passengers_from_city2": 856,
+      "total_two_way_passengers": 1237
+    },
+    {
+      "sno": 436,
+      "city1": "DehraDun",
+      "city2": "PATNA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 1201,
+      "total_two_way_passengers": 1201
+    },
+    {
+      "sno": 401,
+      "city1": "COIMBATORE",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 557,
+      "passengers_from_city2": 574,
+      "total_two_way_passengers": 1131
+    },
+    {
+      "sno": 95,
+      "city1": "AMRITSAR",
+      "city2": "CHANDIGARH",
+      "passengers_to_city2": 472,
+      "passengers_from_city2": 643,
+      "total_two_way_passengers": 1115
+    },
+    {
+      "sno": 389,
+      "city1": "COIMBATORE",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 1105,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 1105
+    },
+    {
+      "sno": 757,
+      "city1": "SHIRDI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 507,
+      "passengers_from_city2": 524,
+      "total_two_way_passengers": 1031
+    },
+    {
+      "sno": 322,
+      "city1": "CHANDIGARH",
+      "city2": "VADODARA",
+      "passengers_to_city2": 127,
+      "passengers_from_city2": 884,
+      "total_two_way_passengers": 1011
+    },
+    {
+      "sno": 341,
+      "city1": "CHENNAI",
+      "city2": "KANPUR",
+      "passengers_to_city2": 585,
+      "passengers_from_city2": 414,
+      "total_two_way_passengers": 999
+    },
+    {
+      "sno": 674,
+      "city1": "KHAJURAHO",
+      "city2": "VARANASI",
+      "passengers_to_city2": 646,
+      "passengers_from_city2": 347,
+      "total_two_way_passengers": 993
+    },
+    {
+      "sno": 181,
+      "city1": "BENGALURU",
+      "city2": "NASIK",
+      "passengers_to_city2": 525,
+      "passengers_from_city2": 375,
+      "total_two_way_passengers": 900
+    },
+    {
+      "sno": 786,
+      "city1": "Goa",
+      "city2": "KOCHI",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 879,
+      "total_two_way_passengers": 879
+    },
+    {
+      "sno": 527,
+      "city1": "DURGAPUR",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 371,
+      "passengers_from_city2": 446,
+      "total_two_way_passengers": 817
+    },
+    {
+      "sno": 634,
+      "city1": "INDORE",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 405,
+      "passengers_from_city2": 342,
+      "total_two_way_passengers": 747
+    },
+    {
+      "sno": 571,
+      "city1": "HUBLI",
+      "city2": "KANNUR",
+      "passengers_to_city2": 377,
+      "passengers_from_city2": 359,
+      "total_two_way_passengers": 736
+    },
+    {
+      "sno": 767,
+      "city1": "Goa",
+      "city2": "BHUBANESWAR",
+      "passengers_to_city2": 385,
+      "passengers_from_city2": 345,
+      "total_two_way_passengers": 730
+    },
+    {
+      "sno": 704,
+      "city1": "LILABARI",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 246,
+      "passengers_from_city2": 481,
+      "total_two_way_passengers": 727
+    },
+    {
+      "sno": 777,
+      "city1": "Goa",
+      "city2": "RANCHI",
+      "passengers_to_city2": 344,
+      "passengers_from_city2": 363,
+      "total_two_way_passengers": 707
+    },
+    {
+      "sno": 660,
+      "city1": "JAMSHEDPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 385,
+      "passengers_from_city2": 321,
+      "total_two_way_passengers": 706
+    },
+    {
+      "sno": 720,
+      "city1": "MANGALORE",
+      "city2": "RANCHI",
+      "passengers_to_city2": 426,
+      "passengers_from_city2": 264,
+      "total_two_way_passengers": 690
+    },
+    {
+      "sno": 448,
+      "city1": "DELHI",
+      "city2": "Itanagar",
+      "passengers_to_city2": 291,
+      "passengers_from_city2": 346,
+      "total_two_way_passengers": 637
+    },
+    {
+      "sno": 331,
+      "city1": "CHENNAI",
+      "city2": "GORAKHPUR",
+      "passengers_to_city2": 622,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 622
+    },
+    {
+      "sno": 756,
+      "city1": "SHIRDI",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 287,
+      "passengers_from_city2": 305,
+      "total_two_way_passengers": 592
+    },
+    {
+      "sno": 785,
+      "city1": "Goa",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 288,
+      "passengers_from_city2": 302,
+      "total_two_way_passengers": 590
+    },
+    {
+      "sno": 651,
+      "city1": "JAIPUR",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 346,
+      "passengers_from_city2": 243,
+      "total_two_way_passengers": 589
+    },
+    {
+      "sno": 771,
+      "city1": "Goa",
+      "city2": "COIMBATORE",
+      "passengers_to_city2": 287,
+      "passengers_from_city2": 276,
+      "total_two_way_passengers": 563
+    },
+    {
+      "sno": 53,
+      "city1": "AHMEDABAD",
+      "city2": "PORT BLAIR",
+      "passengers_to_city2": 463,
+      "passengers_from_city2": 92,
+      "total_two_way_passengers": 555
+    },
+    {
+      "sno": 223,
+      "city1": "BHUBANESWAR",
+      "city2": "DehraDun",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 552,
+      "total_two_way_passengers": 552
+    },
+    {
+      "sno": 575,
+      "city1": "HUBLI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 296,
+      "passengers_from_city2": 244,
+      "total_two_way_passengers": 540
+    },
+    {
+      "sno": 228,
+      "city1": "BHUBANESWAR",
+      "city2": "JAMSHEDPUR",
+      "passengers_to_city2": 224,
+      "passengers_from_city2": 289,
+      "total_two_way_passengers": 513
+    },
+    {
+      "sno": 559,
+      "city1": "GUWAHATI",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 166,
+      "passengers_from_city2": 316,
+      "total_two_way_passengers": 482
+    },
+    {
+      "sno": 395,
+      "city1": "COIMBATORE",
+      "city2": "KOLHAPUR",
+      "passengers_to_city2": 261,
+      "passengers_from_city2": 207,
+      "total_two_way_passengers": 468
+    },
+    {
+      "sno": 424,
+      "city1": "DABOLIM",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 468,
+      "total_two_way_passengers": 468
+    },
+    {
+      "sno": 729,
+      "city1": "PASIGHAT",
+      "city2": "TEZPUR",
+      "passengers_to_city2": 238,
+      "passengers_from_city2": 229,
+      "total_two_way_passengers": 467
+    },
+    {
+      "sno": 388,
+      "city1": "KOCHI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 465,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 465
+    },
+    {
+      "sno": 632,
+      "city1": "INDORE",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 248,
+      "passengers_from_city2": 195,
+      "total_two_way_passengers": 443
+    },
+    {
+      "sno": 700,
+      "city1": "KULLU",
+      "city2": "SIMLA",
+      "passengers_to_city2": 216,
+      "passengers_from_city2": 226,
+      "total_two_way_passengers": 442
+    },
+    {
+      "sno": 650,
+      "city1": "JAIPUR",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 218,
+      "passengers_from_city2": 219,
+      "total_two_way_passengers": 437
+    },
+    {
+      "sno": 14,
+      "city1": "AGATTI ISLAND",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 218,
+      "passengers_from_city2": 212,
+      "total_two_way_passengers": 430
+    },
+    {
+      "sno": 98,
+      "city1": "AMRITSAR",
+      "city2": "DehraDun",
+      "passengers_to_city2": 91,
+      "passengers_from_city2": 333,
+      "total_two_way_passengers": 424
+    },
+    {
+      "sno": 407,
+      "city1": "COOCH BEHAR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 211,
+      "passengers_from_city2": 208,
+      "total_two_way_passengers": 419
+    },
+    {
+      "sno": 110,
+      "city1": "AURANGABAD",
+      "city2": "BENGALURU",
+      "passengers_to_city2": 201,
+      "passengers_from_city2": 216,
+      "total_two_way_passengers": 417
+    },
+    {
+      "sno": 728,
+      "city1": "NASIK",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 204,
+      "passengers_from_city2": 208,
+      "total_two_way_passengers": 412
+    },
+    {
+      "sno": 705,
+      "city1": "LILABARI",
+      "city2": "TEZPUR",
+      "passengers_to_city2": 387,
+      "passengers_from_city2": 15,
+      "total_two_way_passengers": 402
+    },
+    {
+      "sno": 681,
+      "city1": "KOLKATA",
+      "city2": "PASIGHAT",
+      "passengers_to_city2": 6,
+      "passengers_from_city2": 386,
+      "total_two_way_passengers": 392
+    },
+    {
+      "sno": 743,
+      "city1": "PUNE",
+      "city2": "VARANASI",
+      "passengers_to_city2": 274,
+      "passengers_from_city2": 104,
+      "total_two_way_passengers": 378
+    },
+    {
+      "sno": 724,
+      "city1": "NAGPUR",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 376,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 376
+    },
+    {
+      "sno": 371,
+      "city1": "KOCHI",
+      "city2": "COIMBATORE",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 358,
+      "total_two_way_passengers": 358
+    },
+    {
+      "sno": 783,
+      "city1": "Goa",
+      "city2": "VARANASI",
+      "passengers_to_city2": 179,
+      "passengers_from_city2": 177,
+      "total_two_way_passengers": 356
+    },
+    {
+      "sno": 391,
+      "city1": "COIMBATORE",
+      "city2": "DURGAPUR",
+      "passengers_to_city2": 204,
+      "passengers_from_city2": 146,
+      "total_two_way_passengers": 350
+    },
+    {
+      "sno": 564,
+      "city1": "GWALIOR",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 209,
+      "passengers_from_city2": 129,
+      "total_two_way_passengers": 338
+    },
+    {
+      "sno": 672,
+      "city1": "KANNUR",
+      "city2": "TIRUCHIRAPALLY",
+      "passengers_to_city2": 261,
+      "passengers_from_city2": 66,
+      "total_two_way_passengers": 327
+    },
+    {
+      "sno": 784,
+      "city1": "Goa",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 140,
+      "passengers_from_city2": 187,
+      "total_two_way_passengers": 327
+    },
+    {
+      "sno": 760,
+      "city1": "TIRUCHIRAPALLY",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 195,
+      "passengers_from_city2": 129,
+      "total_two_way_passengers": 324
+    },
+    {
+      "sno": 506,
+      "city1": "DIBRUGARH",
+      "city2": "Itanagar",
+      "passengers_to_city2": 175,
+      "passengers_from_city2": 135,
+      "total_two_way_passengers": 310
+    },
+    {
+      "sno": 647,
+      "city1": "JAIPUR",
+      "city2": "PANTNAGAR",
+      "passengers_to_city2": 183,
+      "passengers_from_city2": 126,
+      "total_two_way_passengers": 309
+    },
+    {
+      "sno": 503,
+      "city1": "DHARAMSALA",
+      "city2": "SIMLA",
+      "passengers_to_city2": 179,
+      "passengers_from_city2": 123,
+      "total_two_way_passengers": 302
+    },
+    {
+      "sno": 63,
+      "city1": "AHMEDABAD",
+      "city2": "VADODARA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 292,
+      "total_two_way_passengers": 292
+    },
+    {
+      "sno": 366,
+      "city1": "CHENNAI",
+      "city2": "UDAIPUR",
+      "passengers_to_city2": 153,
+      "passengers_from_city2": 128,
+      "total_two_way_passengers": 281
+    },
+    {
+      "sno": 528,
+      "city1": "DURGAPUR",
+      "city2": "VADODARA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 274,
+      "total_two_way_passengers": 274
+    },
+    {
+      "sno": 68,
+      "city1": "AIZAWL",
+      "city2": "DIMAPUR",
+      "passengers_to_city2": 4,
+      "passengers_from_city2": 269,
+      "total_two_way_passengers": 273
+    },
+    {
+      "sno": 213,
+      "city1": "BHOPAL",
+      "city2": "INDORE",
+      "passengers_to_city2": 107,
+      "passengers_from_city2": 157,
+      "total_two_way_passengers": 264
+    },
+    {
+      "sno": 16,
+      "city1": "AGATTI ISLAND",
+      "city2": "MYSORE",
+      "passengers_to_city2": 177,
+      "passengers_from_city2": 80,
+      "total_two_way_passengers": 257
+    },
+    {
+      "sno": 779,
+      "city1": "Goa",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 100,
+      "passengers_from_city2": 151,
+      "total_two_way_passengers": 251
+    },
+    {
+      "sno": 59,
+      "city1": "AHMEDABAD",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 117,
+      "passengers_from_city2": 123,
+      "total_two_way_passengers": 240
+    },
+    {
+      "sno": 128,
+      "city1": "BAREILLY",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 162,
+      "passengers_from_city2": 77,
+      "total_two_way_passengers": 239
+    },
+    {
+      "sno": 123,
+      "city1": "BAGDOGRA",
+      "city2": "RANCHI",
+      "passengers_to_city2": 93,
+      "passengers_from_city2": 123,
+      "total_two_way_passengers": 216
+    },
+    {
+      "sno": 646,
+      "city1": "JAIPUR",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 188,
+      "total_two_way_passengers": 188
+    },
+    {
+      "sno": 397,
+      "city1": "COIMBATORE",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 172,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 172
+    },
+    {
+      "sno": 699,
+      "city1": "KOZHIKODE",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 169,
+      "total_two_way_passengers": 169
+    },
+    {
+      "sno": 214,
+      "city1": "BHOPAL",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 160,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 160
+    },
+    {
+      "sno": 753,
+      "city1": "RANCHI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 56,
+      "passengers_from_city2": 102,
+      "total_two_way_passengers": 158
+    },
+    {
+      "sno": 618,
+      "city1": "IMPHAL",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 1,
+      "passengers_from_city2": 154,
+      "total_two_way_passengers": 155
+    },
+    {
+      "sno": 501,
+      "city1": "Deoghar",
+      "city2": "RANCHI",
+      "passengers_to_city2": 87,
+      "passengers_from_city2": 65,
+      "total_two_way_passengers": 152
+    },
+    {
+      "sno": 569,
+      "city1": "Itanagar",
+      "city2": "Ziro",
+      "passengers_to_city2": 69,
+      "passengers_from_city2": 78,
+      "total_two_way_passengers": 147
+    },
+    {
+      "sno": 670,
+      "city1": "KANNUR",
+      "city2": "MANGALORE",
+      "passengers_to_city2": 63,
+      "passengers_from_city2": 77,
+      "total_two_way_passengers": 140
+    },
+    {
+      "sno": 568,
+      "city1": "Itanagar",
+      "city2": "PASIGHAT",
+      "passengers_to_city2": 64,
+      "passengers_from_city2": 72,
+      "total_two_way_passengers": 136
+    },
+    {
+      "sno": 124,
+      "city1": "BAGDOGRA",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 133,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 133
+    },
+    {
+      "sno": 523,
+      "city1": "DURGAPUR",
+      "city2": "KOLKATA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 132,
+      "total_two_way_passengers": 132
+    },
+    {
+      "sno": 512,
+      "city1": "DIBRUGARH",
+      "city2": "TEZU",
+      "passengers_to_city2": 20,
+      "passengers_from_city2": 100,
+      "total_two_way_passengers": 120
+    },
+    {
+      "sno": 500,
+      "city1": "Deoghar",
+      "city2": "PATNA",
+      "passengers_to_city2": 44,
+      "passengers_from_city2": 74,
+      "total_two_way_passengers": 118
+    },
+    {
+      "sno": 56,
+      "city1": "AHMEDABAD",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 115,
+      "total_two_way_passengers": 115
+    },
+    {
+      "sno": 364,
+      "city1": "CHENNAI",
+      "city2": "TIRUPATI",
+      "passengers_to_city2": 112,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 112
+    },
+    {
+      "sno": 4,
+      "city1": "AGARTALA",
+      "city2": "BHUBANESWAR",
+      "passengers_to_city2": 18,
+      "passengers_from_city2": 90,
+      "total_two_way_passengers": 108
+    },
+    {
+      "sno": 733,
+      "city1": "PATNA",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 104,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 104
+    },
+    {
+      "sno": 536,
+      "city1": "GORAKHPUR",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 97,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 97
+    },
+    {
+      "sno": 758,
+      "city1": "SRINAGAR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 93,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 93
+    },
+    {
+      "sno": 108,
+      "city1": "AMRITSAR",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 86,
+      "total_two_way_passengers": 86
+    },
+    {
+      "sno": 732,
+      "city1": "PATNA",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 83,
+      "total_two_way_passengers": 83
+    },
+    {
+      "sno": 687,
+      "city1": "KOLKATA",
+      "city2": "ROURKELA",
+      "passengers_to_city2": 27,
+      "passengers_from_city2": 52,
+      "total_two_way_passengers": 79
+    },
+    {
+      "sno": 432,
+      "city1": "DehraDun",
+      "city2": "JAMMU",
+      "passengers_to_city2": 25,
+      "passengers_from_city2": 43,
+      "total_two_way_passengers": 68
+    },
+    {
+      "sno": 399,
+      "city1": "COIMBATORE",
+      "city2": "MYSORE",
+      "passengers_to_city2": 58,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 58
+    },
+    {
+      "sno": 513,
+      "city1": "DIBRUGARH",
+      "city2": "Ziro",
+      "passengers_to_city2": 27,
+      "passengers_from_city2": 30,
+      "total_two_way_passengers": 57
+    },
+    {
+      "sno": 719,
+      "city1": "MANGALORE",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 55,
+      "total_two_way_passengers": 55
+    },
+    {
+      "sno": 749,
+      "city1": "RAJAHMUNDRY",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 4,
+      "passengers_from_city2": 51,
+      "total_two_way_passengers": 55
+    },
+    {
+      "sno": 773,
+      "city1": "Goa",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 35,
+      "passengers_from_city2": 15,
+      "total_two_way_passengers": 50
+    },
+    {
+      "sno": 375,
+      "city1": "KOCHI",
+      "city2": "INDORE",
+      "passengers_to_city2": 22,
+      "passengers_from_city2": 26,
+      "total_two_way_passengers": 48
+    },
+    {
+      "sno": 633,
+      "city1": "INDORE",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 32,
+      "passengers_from_city2": 15,
+      "total_two_way_passengers": 47
+    },
+    {
+      "sno": 751,
+      "city1": "RANCHI",
+      "city2": "SHILLONG",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 43,
+      "total_two_way_passengers": 43
+    },
+    {
+      "sno": 381,
+      "city1": "KOCHI",
+      "city2": "NAGPUR",
+      "passengers_to_city2": 8,
+      "passengers_from_city2": 32,
+      "total_two_way_passengers": 40
+    },
+    {
+      "sno": 759,
+      "city1": "TRIVANDRUM",
+      "city2": "TUTICORIN",
+      "passengers_to_city2": 37,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 37
+    },
+    {
+      "sno": 225,
+      "city1": "BHUBANESWAR",
+      "city2": "GUWAHATI",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 35,
+      "total_two_way_passengers": 35
+    },
+    {
+      "sno": 206,
+      "city1": "BHOPAL",
+      "city2": "BILASPUR",
+      "passengers_to_city2": 13,
+      "passengers_from_city2": 21,
+      "total_two_way_passengers": 34
+    },
+    {
+      "sno": 378,
+      "city1": "KOCHI",
+      "city2": "KOZHIKODE",
+      "passengers_to_city2": 34,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 34
+    },
+    {
+      "sno": 408,
+      "city1": "DABOLIM",
+      "city2": "DARBHANGA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 32,
+      "total_two_way_passengers": 32
+    },
+    {
+      "sno": 673,
+      "city1": "KANNUR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 31,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 31
+    },
+    {
+      "sno": 300,
+      "city1": "MUMBAI",
+      "city2": "VIJAYAWADA",
+      "passengers_to_city2": 30,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 30
+    },
+    {
+      "sno": 357,
+      "city1": "CHENNAI",
+      "city2": "RAJKOT",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 29,
+      "total_two_way_passengers": 29
+    },
+    {
+      "sno": 517,
+      "city1": "DIMAPUR",
+      "city2": "LILABARI",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 29,
+      "total_two_way_passengers": 29
+    },
+    {
+      "sno": 726,
+      "city1": "NAGPUR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 28,
+      "total_two_way_passengers": 28
+    },
+    {
+      "sno": 51,
+      "city1": "AHMEDABAD",
+      "city2": "PANTNAGAR",
+      "passengers_to_city2": 8,
+      "passengers_from_city2": 18,
+      "total_two_way_passengers": 26
+    },
+    {
+      "sno": 89,
+      "city1": "ALLAHABAD",
+      "city2": "JABALPUR",
+      "passengers_to_city2": 18,
+      "passengers_from_city2": 8,
+      "total_two_way_passengers": 26
+    },
+    {
+      "sno": 706,
+      "city1": "LILABARI",
+      "city2": "Ziro",
+      "passengers_to_city2": 3,
+      "passengers_from_city2": 23,
+      "total_two_way_passengers": 26
+    },
+    {
+      "sno": 510,
+      "city1": "DIBRUGARH",
+      "city2": "PASIGHAT",
+      "passengers_to_city2": 13,
+      "passengers_from_city2": 12,
+      "total_two_way_passengers": 25
+    },
+    {
+      "sno": 696,
+      "city1": "KOLKATA",
+      "city2": "VADODARA",
+      "passengers_to_city2": 25,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 25
+    },
+    {
+      "sno": 221,
+      "city1": "BHUBANESWAR",
+      "city2": "KOCHI",
+      "passengers_to_city2": 12,
+      "passengers_from_city2": 10,
+      "total_two_way_passengers": 22
+    },
+    {
+      "sno": 735,
+      "city1": "PORT BLAIR",
+      "city2": "PUNE",
+      "passengers_to_city2": 21,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 21
+    },
+    {
+      "sno": 509,
+      "city1": "DIBRUGARH",
+      "city2": "LILABARI",
+      "passengers_to_city2": 12,
+      "passengers_from_city2": 8,
+      "total_two_way_passengers": 20
+    },
+    {
+      "sno": 644,
+      "city1": "JAIPUR",
+      "city2": "LEH",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 20,
+      "total_two_way_passengers": 20
+    },
+    {
+      "sno": 423,
+      "city1": "DABOLIM",
+      "city2": "VARANASI",
+      "passengers_to_city2": 19,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 19
+    },
+    {
+      "sno": 635,
+      "city1": "JABALPUR",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 19,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 19
+    },
+    {
+      "sno": 725,
+      "city1": "NAGPUR",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 7,
+      "passengers_from_city2": 12,
+      "total_two_way_passengers": 19
+    },
+    {
+      "sno": 526,
+      "city1": "DURGAPUR",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 18,
+      "total_two_way_passengers": 18
+    },
+    {
+      "sno": 320,
+      "city1": "CHANDIGARH",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 17,
+      "total_two_way_passengers": 17
+    },
+    {
+      "sno": 561,
+      "city1": "GUWAHATI",
+      "city2": "VISAKHAPATNAM",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 17,
+      "total_two_way_passengers": 17
+    },
+    {
+      "sno": 742,
+      "city1": "PUNE",
+      "city2": "VADODARA",
+      "passengers_to_city2": 17,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 17
+    },
+    {
+      "sno": 703,
+      "city1": "LILABARI",
+      "city2": "PASIGHAT",
+      "passengers_to_city2": 3,
+      "passengers_from_city2": 13,
+      "total_two_way_passengers": 16
+    },
+    {
+      "sno": 84,
+      "city1": "ALLAHABAD",
+      "city2": "CHENNAI",
+      "passengers_to_city2": 15,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 15
+    },
+    {
+      "sno": 519,
+      "city1": "DIMAPUR",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 5,
+      "passengers_from_city2": 8,
+      "total_two_way_passengers": 13
+    },
+    {
+      "sno": 717,
+      "city1": "MANGALORE",
+      "city2": "PATNA",
+      "passengers_to_city2": 13,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 13
+    },
+    {
+      "sno": 636,
+      "city1": "JABALPUR",
+      "city2": "JODHPUR",
+      "passengers_to_city2": 11,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 11
+    },
+    {
+      "sno": 403,
+      "city1": "COIMBATORE",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 9,
+      "total_two_way_passengers": 9
+    },
+    {
+      "sno": 121,
+      "city1": "BAGDOGRA",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 8,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 8
+    },
+    {
+      "sno": 525,
+      "city1": "DURGAPUR",
+      "city2": "SHIRDI",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 8,
+      "total_two_way_passengers": 8
+    },
+    {
+      "sno": 308,
+      "city1": "CHANDIGARH",
+      "city2": "GORAKHPUR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 6,
+      "total_two_way_passengers": 6
+    },
+    {
+      "sno": 529,
+      "city1": "GAYA",
+      "city2": "JAIPUR",
+      "passengers_to_city2": 6,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 6
+    },
+    {
+      "sno": 405,
+      "city1": "COIMBATORE",
+      "city2": "VARANASI",
+      "passengers_to_city2": 5,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 5
+    },
+    {
+      "sno": 746,
+      "city1": "RAIPUR",
+      "city2": "VARANASI",
+      "passengers_to_city2": 4,
+      "passengers_from_city2": 1,
+      "total_two_way_passengers": 5
+    },
+    {
+      "sno": 342,
+      "city1": "CHENNAI",
+      "city2": "KOLHAPUR",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 4,
+      "total_two_way_passengers": 4
+    },
+    {
+      "sno": 520,
+      "city1": "DIU",
+      "city2": "PUNE",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 4,
+      "total_two_way_passengers": 4
+    },
+    {
+      "sno": 540,
+      "city1": "GORAKHPUR",
+      "city2": "SRINAGAR",
+      "passengers_to_city2": 4,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 4
+    },
+    {
+      "sno": 60,
+      "city1": "AHMEDABAD",
+      "city2": "SURAT",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 3,
+      "total_two_way_passengers": 3
+    },
+    {
+      "sno": 222,
+      "city1": "BHUBANESWAR",
+      "city2": "DABOLIM",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 3,
+      "total_two_way_passengers": 3
+    },
+    {
+      "sno": 313,
+      "city1": "CHANDIGARH",
+      "city2": "JAMMU",
+      "passengers_to_city2": 3,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 3
+    },
+    {
+      "sno": 524,
+      "city1": "DURGAPUR",
+      "city2": "LUCKNOW",
+      "passengers_to_city2": 3,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 3
+    },
+    {
+      "sno": 639,
+      "city1": "JABALPUR",
+      "city2": "RAIPUR",
+      "passengers_to_city2": 3,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 3
+    },
+    {
+      "sno": 10,
+      "city1": "AGARTALA",
+      "city2": "JORHAT",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 2,
+      "total_two_way_passengers": 2
+    },
+    {
+      "sno": 586,
+      "city1": "HYDERABAD",
+      "city2": "KANDLA",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 2,
+      "total_two_way_passengers": 2
+    },
+    {
+      "sno": 628,
+      "city1": "INDORE",
+      "city2": "MADURAI",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 2,
+      "total_two_way_passengers": 2
+    },
+    {
+      "sno": 73,
+      "city1": "AIZAWL",
+      "city2": "SILCHAR",
+      "passengers_to_city2": 1,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 1
+    },
+    {
+      "sno": 211,
+      "city1": "BHOPAL",
+      "city2": "GWALIOR",
+      "passengers_to_city2": 1,
+      "passengers_from_city2": 0,
+      "total_two_way_passengers": 1
+    },
+    {
+      "sno": 721,
+      "city1": "MANGALORE",
+      "city2": "TRIVANDRUM",
+      "passengers_to_city2": 0,
+      "passengers_from_city2": 1,
+      "total_two_way_passengers": 1
+    }
+  ]
+}

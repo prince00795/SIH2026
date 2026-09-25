@@ -17,19 +17,35 @@ htmlcov/
 .mypy_cache/
 .ruff_cache/
 
-# Virtual environments
-.venv/
-venv/
-env/
-ENV/
-build/
+# Node dependencies
+node_modules/
+*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production and test build artifacts
 dist/
+*/dist/
+dist-ssr/
+build/
 *.egg-info/
 
-# SQLite temporary journal files
+# Environment files and credentials
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+!*.env.example
+
+# Database files
+*.db
 *.db-wal
 *.db-shm
 *.db-journal
+*.sqlite
+*.sqlite3
 
 # Large media, video screen recordings & slides (kept deleted per project rules)
 *.mp4
@@ -44,11 +60,11 @@ uploads/
 
 # IDE and OS metadata
 .DS_Store
+*/.DS_Store
 .idea/
 .vscode/
 *.swp
 *.swo
 
-# Local runtime logs and temporary environment overrides
+# Local runtime logs
 *.log
-.env.local
