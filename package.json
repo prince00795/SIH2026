@@ -1,7 +1,7 @@
 {
-  "name": "vayusutra-platform",
+  "name": "aerostat-platform",
   "version": "2.0.0",
-  "description": "VayuSutra - Real-Time Airfare Price Intelligence & Airfare Price Index Platform for India",
+  "description": "Aerostat - Real-Time Airfare Price Intelligence & Airfare Price Index Platform for India",
   "scripts": {
     "dev:server": "cd server && npm run dev",
     "dev:client": "cd client && npm run dev",

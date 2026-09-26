@@ -1,9 +1,9 @@
-# VayuSutra APIx (v2.0.0)
+# Aerostat APIx (v2.0.0)
 ## National Airfare Price Index & High-Frequency CPI Augmentation Platform
 ### Smart India Hackathon 2026 (SIH26056) &bull; Ministry of Statistics & Programme Implementation (MoSPI) / RBI / DGCA
 
-[![Tests](https://img.shields.io/badge/Vitest-19%20Passed-10B981?style=for-the-badge&logo=vitest)](https://vitest.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tests](https://img.shields.io/badge/Vitest-25%20Passed-10B981?style=for-the-badge&logo=vitest)](https://vitest.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React 18](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Express](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express)](https://expressjs.com)
 [![Playwright](https://img.shields.io/badge/Playwright-Browser%20Automation-2EAD33?style=for-the-badge&logo=playwright)](https://playwright.dev)
@@ -15,15 +15,15 @@
 
 **Problem Statement:** MoSPI compiles the Consumer Price Index (CPI) on a monthly basis, publishing figures on the 12th of the following month (a **12 to 42-day reporting lag**). Airfare tariffs in India are dynamically priced using algorithmic revenue management models that experience extreme intra-month volatility. Point-in-time monthly collection fails to capture rapid price shifts, leaving the Reserve Bank of India (RBI) and economic planners with lagged transport inflation signals.
 
-**VayuSutra APIx** is a full-stack production platform re-architected on the MERN stack with Playwright browser automation to calculate a high-frequency **Short-Jevons Chained Airfare Price Index**. It continuously tracks India's **Top 20 domestic corridors** across **5 standardized advance booking horizons** ($T+1, T+7, T+15, T+30, T+45$), weighting them using official Directorate General of Civil Aviation (DGCA) scheduled passenger traffic data (136.03M annual passengers).
+**Aerostat APIx** is a full-stack production platform re-architected on the MERN stack with Playwright browser automation to calculate a high-frequency **Short-Jevons Chained Airfare Price Index**. It continuously tracks India's **Top 20 domestic corridors** across **5 standardized advance booking horizons** ($T+1, T+7, T+15, T+30, T+45$), weighting them using official Directorate General of Civil Aviation (DGCA) scheduled passenger traffic data (136.03M annual passengers).
 
 ---
 
 ## 2. Institutional Integrity Commitments
 
-VayuSutra was redesigned with statutory credibility and transparency:
+Aerostat was redesigned with statutory credibility and transparency:
 
-| Rule | Institutional Commitment | Implementation in VayuSutra APIx |
+| Rule | Institutional Commitment | Implementation in Aerostat APIx |
 |---|---|---|
 | **Rule 1** | **Strict Mode Separation** | Explicit `[MODE: LIVE]` vs `[MODE: DEMO / SIMULATION]` badge displayed on every single screen. |
 | **Rule 2** | **No Fabricated Data** | Former fake backtests ($r=0.9858$) and random walk generators removed. Unobserved fields explicitly display `DATA UNAVAILABLE`. |
@@ -40,11 +40,11 @@ VayuSutra was redesigned with statutory credibility and transparency:
 
 ## 3. Technology Stack
 
-- **Backend:** Express.js + Node.js (TypeScript), Mongoose, RESTful API
-- **Frontend:** React 18, Vite, TypeScript, Recharts, Lucide Icons, Custom Design System
+- **Backend:** Express.js + Node.js (JavaScript ESM), Mongoose, RESTful API
+- **Frontend:** React 18, Vite, JavaScript JSX, Recharts, Lucide Icons, Custom Design System
 - **Scraping Engine:** Playwright browser automation (Chromium), Token Bucket Rate Limiter, Robots.txt Checker
 - **Database:** MongoDB Atlas / Local MongoDB (with resilient Standalone In-Memory fallback for out-of-the-box evaluation)
-- **Testing:** Vitest (19 passing unit & integration tests)
+- **Testing:** Vitest (25 passing unit & integration tests)
 
 ---
 
@@ -79,8 +79,8 @@ graph TD
 ### Installation & Setup
 ```bash
 # Clone repository
-git clone https://github.com/Devparth7-coder/VayuSutra-V4.git
-cd VayuSutra-V4
+git clone https://github.com/Devparth7-coder/Aerostat-V4.git
+cd Aerostat-V4
 
 # Install all workspace dependencies
 npm run install:all
@@ -97,10 +97,10 @@ npm run build
 
 ### Launch Production Server
 ```bash
-# Starts Node.js Express server on port 8000 (serves REST API + client SPA)
-node server/dist/index.js
+# Starts Node.js Express server on port 5000 (serves REST API + client SPA)
+npm start
 ```
-Open **`http://localhost:8000`** in your browser to access the National Command Center.
+Open **`http://localhost:5000`** in your browser to access the National Command Center.
 
 ### Concurrent Development Mode
 ```bash
